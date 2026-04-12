@@ -1,34 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="1.PointerTypeValue.cpp">
-      <Filter>10-11Pointer</Filter>
-    </ClCompile>
-    <ClCompile Include="2.flag.cpp">
-      <Filter>10-11Pointer</Filter>
-    </ClCompile>
-    <ClCompile Include="3.minmax.cpp">
-      <Filter>10-11Pointer</Filter>
-    </ClCompile>
-    <ClCompile Include="1.Number.cpp">
-      <Filter>12.Char</Filter>
-    </ClCompile>
-    <ClCompile Include="test.cpp">
-      <Filter>12.Char</Filter>
-    </ClCompile>
-    <ClCompile Include="tt.cpp">
-      <Filter>13.</Filter>
-    </ClCompile>
+    <Filter Include="10.11PointerTypeValue">
+      <UniqueIdentifier>{938777f1-bbbb-4d4e-bfa5-1480abcd5f46}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Filter Include="10-11Pointer">
-      <UniqueIdentifier>{c3d2feab-4f7e-4afd-b429-21f3045c8ed9}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="12.Char">
-      <UniqueIdentifier>{3ca8046e-0717-4883-917b-faae48308ac9}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="13.">
-      <UniqueIdentifier>{19789596-8e97-44ca-ad98-eb454ea8e7ca}</UniqueIdentifier>
-    </Filter>
+    <ClCompile Include="10,11.PointerTypeValue\01-return.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10,11.PointerTypeValue\02-FillInTheBlanks.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10,11.PointerTypeValue\03-PrintWithDifferentFonts.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10,11.PointerTypeValue\04-Pointer.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10,11.PointerTypeValue\05.Flag.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10,11.PointerTypeValue\06.minmax.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

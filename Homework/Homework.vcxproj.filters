@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="10.11PointerTypeValue\01.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\2.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\3.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\4.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\5.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\6.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\7.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\8.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\9.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\10.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="10.11PointerTypeValue">
+      <UniqueIdentifier>{e29966f3-961b-4cfe-b9c9-617a1b79d478}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

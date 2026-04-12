@@ -19,28 +19,40 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="10,11.PointerTypeValue\01-return.cpp">
+    <ClCompile Include="10.11PointerTypeValue\01.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="10,11.PointerTypeValue\02-FillInTheBlanks.cpp">
+    <ClCompile Include="10.11PointerTypeValue\10.cpp" />
+    <ClCompile Include="10.11PointerTypeValue\2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="10,11.PointerTypeValue\03-PrintWithDifferentFonts.cpp">
+    <ClCompile Include="10.11PointerTypeValue\3.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="10,11.PointerTypeValue\04-Pointer.cpp">
+    <ClCompile Include="10.11PointerTypeValue\4.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="10,11.PointerTypeValue\05.Flag.cpp">
+    <ClCompile Include="10.11PointerTypeValue\5.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="10,11.PointerTypeValue\06.minmax.cpp" />
+    <ClCompile Include="10.11PointerTypeValue\6.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\7.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\8.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\9.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{61d8026e-344c-454a-9afa-16cf058e768d}</ProjectGuid>
-    <RootNamespace>CStudy</RootNamespace>
+    <ProjectGuid>{4a42a0c2-b1d8-4d23-80e5-391a22aa0856}</ProjectGuid>
+    <RootNamespace>Homework</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
