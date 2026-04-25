@@ -4,6 +4,15 @@
     <Filter Include="10.11PointerTypeValue">
       <UniqueIdentifier>{938777f1-bbbb-4d4e-bfa5-1480abcd5f46}</UniqueIdentifier>
     </Filter>
+    <Filter Include="12.Strings, string length, and the use of nested for loops">
+      <UniqueIdentifier>{9b97ba45-0859-4432-9a45-3362c9993320}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="14.버블정렬/선택정렬">
+      <UniqueIdentifier>{536ec888-0a9f-4546-8596-6fc1def5c7f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="13.포인터의 활용%28배열, 함수%29">
+      <UniqueIdentifier>{a6af669c-6a5d-436a-8b2a-ee95b7412116}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="10,11.PointerTypeValue\01-return.cpp">
@@ -23,6 +32,35 @@
     </ClCompile>
     <ClCompile Include="10,11.PointerTypeValue\06.minmax.cpp">
       <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="bouble.cpp">
+      <Filter>14.버블정렬/선택정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="select.cpp">
+      <Filter>14.버블정렬/선택정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="insertion.cpp">
+      <Filter>14.버블정렬/선택정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="1.cpp" />
+    <ClCompile Include="5.cpp" />
+    <ClCompile Include="13.포인터의 활용(배열, 함수)\1.cpp">
+      <Filter>13.포인터의 활용%28배열, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="13.포인터의 활용(배열, 함수)\2.cpp">
+      <Filter>13.포인터의 활용%28배열, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="13.포인터의 활용(배열, 함수)\3.cpp">
+      <Filter>13.포인터의 활용%28배열, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="13.포인터의 활용(배열, 함수)\4.cpp">
+      <Filter>13.포인터의 활용%28배열, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="13.포인터의 활용(배열, 함수)\5.cpp">
+      <Filter>13.포인터의 활용%28배열, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="13.포인터의 활용(배열, 함수)\6.cpp">
+      <Filter>13.포인터의 활용%28배열, 함수%29</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

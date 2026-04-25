@@ -31,10 +31,283 @@
     <ClCompile Include="10.11PointerTypeValue\10.cpp">
       <Filter>10.11PointerTypeValue</Filter>
     </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\11.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\12.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\13.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\14.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\21.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\15.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\16.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\17.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\18.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\19.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\20.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\22.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\23.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\35.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\24.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\25.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\26.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\27.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\28.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\29.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\30.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\31.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\32.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\33.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\34.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\36.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\37.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\38.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\39.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\40.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\41.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="10.11PointerTypeValue\42.cpp">
+      <Filter>10.11PointerTypeValue</Filter>
+    </ClCompile>
+    <ClCompile Include="12.Strings, string length, and the use of nested for loops\1.cpp">
+      <Filter>12.Strings, string length, and the use of nested for loops</Filter>
+    </ClCompile>
+    <ClCompile Include="12.Strings, string length, and the use of nested for loops\2.cpp">
+      <Filter>12.Strings, string length, and the use of nested for loops</Filter>
+    </ClCompile>
+    <ClCompile Include="12.Strings, string length, and the use of nested for loops\3.cpp">
+      <Filter>12.Strings, string length, and the use of nested for loops</Filter>
+    </ClCompile>
+    <ClCompile Include="12.Strings, string length, and the use of nested for loops\4.cpp">
+      <Filter>12.Strings, string length, and the use of nested for loops</Filter>
+    </ClCompile>
+    <ClCompile Include="12.Strings, string length, and the use of nested for loops\5.cpp">
+      <Filter>12.Strings, string length, and the use of nested for loops</Filter>
+    </ClCompile>
+    <ClCompile Include="12.Strings, string length, and the use of nested for loops\6.cpp">
+      <Filter>12.Strings, string length, and the use of nested for loops</Filter>
+    </ClCompile>
+    <ClCompile Include="12.Strings, string length, and the use of nested for loops\7.cpp">
+      <Filter>12.Strings, string length, and the use of nested for loops</Filter>
+    </ClCompile>
+    <ClCompile Include="12.Strings, string length, and the use of nested for loops\8.cpp">
+      <Filter>12.Strings, string length, and the use of nested for loops</Filter>
+    </ClCompile>
+    <ClCompile Include="12.Strings, string length, and the use of nested for loops\9.cpp">
+      <Filter>12.Strings, string length, and the use of nested for loops</Filter>
+    </ClCompile>
+    <ClCompile Include="12.Strings, string length, and the use of nested for loops\10.cpp">
+      <Filter>12.Strings, string length, and the use of nested for loops</Filter>
+    </ClCompile>
+    <ClCompile Include="12.Strings, string length, and the use of nested for loops\11.cpp">
+      <Filter>12.Strings, string length, and the use of nested for loops</Filter>
+    </ClCompile>
+    <ClCompile Include="12.Strings, string length, and the use of nested for loops\12.cpp">
+      <Filter>12.Strings, string length, and the use of nested for loops</Filter>
+    </ClCompile>
+    <ClCompile Include="12.Strings, string length, and the use of nested for loops\13.cpp">
+      <Filter>12.Strings, string length, and the use of nested for loops</Filter>
+    </ClCompile>
+    <ClCompile Include="12.Strings, string length, and the use of nested for loops\14.cpp">
+      <Filter>12.Strings, string length, and the use of nested for loops</Filter>
+    </ClCompile>
+    <ClCompile Include="12.Strings, string length, and the use of nested for loops\15.cpp">
+      <Filter>12.Strings, string length, and the use of nested for loops</Filter>
+    </ClCompile>
+    <ClCompile Include="12.Strings, string length, and the use of nested for loops\16.cpp">
+      <Filter>12.Strings, string length, and the use of nested for loops</Filter>
+    </ClCompile>
+    <ClCompile Include="12.Strings, string length, and the use of nested for loops\17.cpp">
+      <Filter>12.Strings, string length, and the use of nested for loops</Filter>
+    </ClCompile>
+    <ClCompile Include="12.Strings, string length, and the use of nested for loops\18.cpp">
+      <Filter>12.Strings, string length, and the use of nested for loops</Filter>
+    </ClCompile>
+    <ClCompile Include="13.포인터의 활용(배열, 함수)\1.cpp">
+      <Filter>13.포인터의 활용%28배열, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="13.포인터의 활용(배열, 함수)\2.cpp">
+      <Filter>13.포인터의 활용%28배열, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="13.포인터의 활용(배열, 함수)\3.cpp">
+      <Filter>13.포인터의 활용%28배열, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="13.포인터의 활용(배열, 함수)\4.cpp">
+      <Filter>13.포인터의 활용%28배열, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="13.포인터의 활용(배열, 함수)\5.cpp">
+      <Filter>13.포인터의 활용%28배열, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="13.포인터의 활용(배열, 함수)\6.cpp">
+      <Filter>13.포인터의 활용%28배열, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="13.포인터의 활용(배열, 함수)\7.cpp">
+      <Filter>13.포인터의 활용%28배열, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="13.포인터의 활용(배열, 함수)\8.cpp">
+      <Filter>13.포인터의 활용%28배열, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="13.포인터의 활용(배열, 함수)\9.cpp">
+      <Filter>13.포인터의 활용%28배열, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="13.포인터의 활용(배열, 함수)\10.cpp">
+      <Filter>13.포인터의 활용%28배열, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="13.포인터의 활용(배열, 함수)\11.cpp">
+      <Filter>13.포인터의 활용%28배열, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="13.포인터의 활용(배열, 함수)\12.cpp">
+      <Filter>13.포인터의 활용%28배열, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="14.버블,선택정렬\1.cpp">
+      <Filter>14.버블,선택 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="14.버블,선택정렬\2.cpp">
+      <Filter>14.버블,선택 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="14.버블,선택정렬\3.cpp">
+      <Filter>14.버블,선택 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="14.버블,선택정렬\4.cpp">
+      <Filter>14.버블,선택 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="14.버블,선택정렬\5.cpp">
+      <Filter>14.버블,선택 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="14.버블,선택정렬\6.cpp">
+      <Filter>14.버블,선택 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="14.버블,선택정렬\7.cpp">
+      <Filter>14.버블,선택 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="14.버블,선택정렬\8.cpp">
+      <Filter>14.버블,선택 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="14.버블,선택정렬\9.cpp">
+      <Filter>14.버블,선택 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="14.버블,선택정렬\10.cpp">
+      <Filter>14.버블,선택 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="14.버블,선택정렬\11.cpp">
+      <Filter>14.버블,선택 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="14.버블,선택정렬\12.cpp">
+      <Filter>14.버블,선택 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="14.버블,선택정렬\13.cpp">
+      <Filter>14.버블,선택 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="15.포인터변수의원리와문자열\1.cpp">
+      <Filter>15.포인터변수의원리와문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="15.포인터변수의원리와문자열\2.cpp">
+      <Filter>15.포인터변수의원리와문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="15.포인터변수의원리와문자열\3.cpp">
+      <Filter>15.포인터변수의원리와문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="14.버블,선택정렬\14.cpp">
+      <Filter>14.버블,선택 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="15.포인터변수의원리와문자열\4.cpp">
+      <Filter>15.포인터변수의원리와문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="15.포인터변수의원리와문자열\5.cpp">
+      <Filter>15.포인터변수의원리와문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="15.포인터변수의원리와문자열\6.cpp">
+      <Filter>15.포인터변수의원리와문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="15.포인터변수의원리와문자열\7.cpp">
+      <Filter>15.포인터변수의원리와문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="15.포인터변수의원리와문자열\8.cpp">
+      <Filter>15.포인터변수의원리와문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="15.포인터변수의원리와문자열\9.cpp">
+      <Filter>15.포인터변수의원리와문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="15.포인터변수의원리와문자열\10.cpp">
+      <Filter>15.포인터변수의원리와문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="15.포인터변수의원리와문자열\11.cpp">
+      <Filter>15.포인터변수의원리와문자열</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="10.11PointerTypeValue">
       <UniqueIdentifier>{e29966f3-961b-4cfe-b9c9-617a1b79d478}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="12.Strings, string length, and the use of nested for loops">
+      <UniqueIdentifier>{bc94fcd9-f4ef-4718-b4d1-62b66cdb004b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="13.포인터의 활용%28배열, 함수%29">
+      <UniqueIdentifier>{60075a69-7e92-4e10-813a-696cba08616c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="14.버블,선택 정렬">
+      <UniqueIdentifier>{a8521cb6-2063-48c3-9124-1bb6496f80eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="15.포인터변수의원리와문자열">
+      <UniqueIdentifier>{33853677-f267-4819-a49a-c529bed24ff9}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
