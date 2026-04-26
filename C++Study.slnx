@@ -4,5 +4,6 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="C++Study/C++Study.vcxproj" Id="61d8026e-344c-454a-9afa-16cf058e768d" />
+  <Project Path="Data Structures/Data Structures.vcxproj" Id="d1cdc012-baf3-4a1a-a1f2-922335ed69c7" />
   <Project Path="Homework/Homework.vcxproj" Id="4a42a0c2-b1d8-4d23-80e5-391a22aa0856" />
 </Solution>
