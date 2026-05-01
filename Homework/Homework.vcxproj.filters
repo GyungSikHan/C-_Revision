@@ -292,17 +292,140 @@
     <ClCompile Include="C++ 기초\10.11PointerTypeValue\34.cpp">
       <Filter>C++ 기초\10.11PointerTypeValue</Filter>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\0 객체지향 프로그래밍 연습\1.cpp">
-      <Filter>자료구조 및 기초 알고리즘\0 객체지향 프로그래밍 연습</Filter>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\1.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP</Filter>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\0 객체지향 프로그래밍 연습\2.cpp">
-      <Filter>자료구조 및 기초 알고리즘\0 객체지향 프로그래밍 연습</Filter>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\11.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습</Filter>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\0 객체지향 프로그래밍 연습\3.cpp">
-      <Filter>자료구조 및 기초 알고리즘\0 객체지향 프로그래밍 연습</Filter>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\12.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습</Filter>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\0 객체지향 프로그래밍 연습\4.cpp">
-      <Filter>자료구조 및 기초 알고리즘\0 객체지향 프로그래밍 연습</Filter>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\13.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\14.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\15.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\16.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\17.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\18.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\19.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\20.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\1.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\2.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\3.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\4.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\5.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\6.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\7.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\8.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\9.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\10.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\10.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\2.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\3.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\4.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\5.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\6.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\7.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\8.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\9.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\11.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\12.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\13.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\14.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\15.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\16.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\17.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\18.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\19.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\20.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\3.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV02 기본기 복습%28마스킹, 다중카운팅, 인덱스, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\4.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV02 기본기 복습%28마스킹, 다중카운팅, 인덱스, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\1.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV02 기본기 복습%28마스킹, 다중카운팅, 인덱스, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\2.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV02 기본기 복습%28마스킹, 다중카운팅, 인덱스, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\５.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV02 기본기 복습%28마스킹, 다중카운팅, 인덱스, 함수%29</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -327,8 +450,14 @@
     <Filter Include="자료구조 및 기초 알고리즘">
       <UniqueIdentifier>{d8f3f152-3d26-4ca8-8e61-2d156f26a9b7}</UniqueIdentifier>
     </Filter>
-    <Filter Include="자료구조 및 기초 알고리즘\0 객체지향 프로그래밍 연습">
+    <Filter Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP">
+      <UniqueIdentifier>{25824206-b452-4060-85f1-e79136f8ab1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습">
       <UniqueIdentifier>{54a6b9e2-5d26-4dbc-a958-1e2cc9290e6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="자료구조 및 기초 알고리즘\LV02 기본기 복습%28마스킹, 다중카운팅, 인덱스, 함수%29">
+      <UniqueIdentifier>{ba90b53f-5373-4cdb-8d64-032e5e5f6a1e}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
