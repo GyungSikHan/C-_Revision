@@ -427,6 +427,54 @@
     <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\５.cpp">
       <Filter>자료구조 및 기초 알고리즘\LV02 기본기 복습%28마스킹, 다중카운팅, 인덱스, 함수%29</Filter>
     </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\12.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV02 기본기 복습%28마스킹, 다중카운팅, 인덱스, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\13.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV02 기본기 복습%28마스킹, 다중카운팅, 인덱스, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\14.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV02 기본기 복습%28마스킹, 다중카운팅, 인덱스, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\15.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV02 기본기 복습%28마스킹, 다중카운팅, 인덱스, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\16.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV02 기본기 복습%28마스킹, 다중카운팅, 인덱스, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\17.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV02 기본기 복습%28마스킹, 다중카운팅, 인덱스, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\18.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV02 기본기 복습%28마스킹, 다중카운팅, 인덱스, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\19.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV02 기본기 복습%28마스킹, 다중카운팅, 인덱스, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\20.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV02 기본기 복습%28마스킹, 다중카운팅, 인덱스, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\21.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV02 기본기 복습%28마스킹, 다중카운팅, 인덱스, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\6.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV02 기본기 복습%28마스킹, 다중카운팅, 인덱스, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\7.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV02 기본기 복습%28마스킹, 다중카운팅, 인덱스, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\8.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV02 기본기 복습%28마스킹, 다중카운팅, 인덱스, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\9.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV02 기본기 복습%28마스킹, 다중카운팅, 인덱스, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\10.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV02 기본기 복습%28마스킹, 다중카운팅, 인덱스, 함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\11.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV02 기본기 복습%28마스킹, 다중카운팅, 인덱스, 함수%29</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="C++ 기초">

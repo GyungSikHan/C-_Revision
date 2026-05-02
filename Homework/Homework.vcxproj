@@ -433,7 +433,43 @@
     <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\10.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\11.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\12.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\13.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\14.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\15.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\16.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\17.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\18.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\19.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\2.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\20.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\21.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\3.cpp">
@@ -442,7 +478,21 @@
     <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\4.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\５.cpp" />
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\6.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\7.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\8.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\9.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\５.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
