@@ -493,6 +493,31 @@
     <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\５.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\1.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\2.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\3.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\4.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\5.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\6.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\7.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\8.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\9.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>

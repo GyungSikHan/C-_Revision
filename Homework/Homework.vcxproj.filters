@@ -475,6 +475,21 @@
     <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\11.cpp">
       <Filter>자료구조 및 기초 알고리즘\LV02 기본기 복습%28마스킹, 다중카운팅, 인덱스, 함수%29</Filter>
     </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\2.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\1.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\3.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\4.cpp" />
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\5.cpp" />
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\6.cpp" />
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\7.cpp" />
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\8.cpp" />
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\9.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="C++ 기초">
@@ -506,6 +521,9 @@
     </Filter>
     <Filter Include="자료구조 및 기초 알고리즘\LV02 기본기 복습%28마스킹, 다중카운팅, 인덱스, 함수%29">
       <UniqueIdentifier>{ba90b53f-5373-4cdb-8d64-032e5e5f6a1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기">
+      <UniqueIdentifier>{8784fe2b-33d7-4a89-b4cb-3b684163ee82}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

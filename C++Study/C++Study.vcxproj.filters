@@ -16,6 +16,9 @@
     <Filter Include="15.포인터 변수의 원리와 문자열%282차원배열%29">
       <UniqueIdentifier>{34c77f86-d6f9-4839-9dbb-1066020e2da3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="16.포인터 타입 변수 요약%28포인터 타입 변수, 이중 포인터 타입, 함수포인터, 델리게이트, 이벤트%29">
+      <UniqueIdentifier>{7cd972e8-9086-4502-8502-8edadb46e0df}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="10,11.PointerTypeValue\01-return.cpp">
@@ -36,15 +39,6 @@
     <ClCompile Include="10,11.PointerTypeValue\06.minmax.cpp">
       <Filter>10.11PointerTypeValue</Filter>
     </ClCompile>
-    <ClCompile Include="bouble.cpp">
-      <Filter>14.버블정렬/선택정렬</Filter>
-    </ClCompile>
-    <ClCompile Include="select.cpp">
-      <Filter>14.버블정렬/선택정렬</Filter>
-    </ClCompile>
-    <ClCompile Include="insertion.cpp">
-      <Filter>14.버블정렬/선택정렬</Filter>
-    </ClCompile>
     <ClCompile Include="13.포인터의 활용(배열, 함수)\1.cpp">
       <Filter>13.포인터의 활용%28배열, 함수%29</Filter>
     </ClCompile>
@@ -63,11 +57,35 @@
     <ClCompile Include="13.포인터의 활용(배열, 함수)\6.cpp">
       <Filter>13.포인터의 활용%28배열, 함수%29</Filter>
     </ClCompile>
-    <ClCompile Include="5.cpp">
+    <ClCompile Include="14.버블정렬,선택정렬\1.cpp">
+      <Filter>14.버블정렬/선택정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="14.버블정렬,선택정렬\2.cpp">
+      <Filter>14.버블정렬/선택정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="14.버블정렬,선택정렬\3.cpp">
+      <Filter>14.버블정렬/선택정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="14.버블정렬,선택정렬\4.cpp">
+      <Filter>14.버블정렬/선택정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="15.포인터 변수의 원리와 문자열%282차원 배열%29\2.cpp">
       <Filter>15.포인터 변수의 원리와 문자열%282차원배열%29</Filter>
     </ClCompile>
-    <ClCompile Include="1.cpp">
+    <ClCompile Include="15.포인터 변수의 원리와 문자열(2차원 배열)\1.cpp">
       <Filter>15.포인터 변수의 원리와 문자열%282차원배열%29</Filter>
+    </ClCompile>
+    <ClCompile Include="15.포인터 변수의 원리와 문자열(2차원 배열)\5.cpp">
+      <Filter>15.포인터 변수의 원리와 문자열%282차원배열%29</Filter>
+    </ClCompile>
+    <ClCompile Include="15.포인터 변수의 원리와 문자열(2차원 배열)\3.cpp">
+      <Filter>15.포인터 변수의 원리와 문자열%282차원배열%29</Filter>
+    </ClCompile>
+    <ClCompile Include="15.포인터 변수의 원리와 문자열(2차원 배열)\4.cpp">
+      <Filter>15.포인터 변수의 원리와 문자열%282차원배열%29</Filter>
+    </ClCompile>
+    <ClCompile Include="16.포인터타입변수요약(포인터 타입 변수, 이중 포인터, 함수 포인터, 이벤트)\1.cpp">
+      <Filter>16.포인터 타입 변수 요약%28포인터 타입 변수, 이중 포인터 타입, 함수포인터, 델리게이트, 이벤트%29</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

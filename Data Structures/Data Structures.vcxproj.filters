@@ -5,9 +5,11 @@
       <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
       <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
     </Filter>
-    <Filter Include="리소스 파일">
-      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
-      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    <Filter Include="소스 파일\NewFilter1">
+      <UniqueIdentifier>{16441ccd-d33f-4ca0-ae0b-8009fcc905ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LV03 Direct Adressing Table, Hash Table, 패턴찾기">
+      <UniqueIdentifier>{c559d577-5c4c-4c3f-bb2b-1cee840d8e12}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -15,34 +17,58 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ex)1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ex2.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\NewFilter1</Filter>
     </ClCompile>
     <ClCompile Include="2.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\NewFilter1</Filter>
     </ClCompile>
     <ClCompile Include="3.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\NewFilter1</Filter>
     </ClCompile>
     <ClCompile Include="4.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\NewFilter1</Filter>
     </ClCompile>
     <ClCompile Include="5.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\NewFilter1</Filter>
     </ClCompile>
     <ClCompile Include="6.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\NewFilter1</Filter>
     </ClCompile>
     <ClCompile Include="7.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\NewFilter1</Filter>
     </ClCompile>
     <ClCompile Include="8.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="ex)1.cpp">
+      <Filter>소스 파일\NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="ex2.cpp">
+      <Filter>소스 파일\NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="LV03 Direct Adressing Table,Hash Table, 패턴찾기\2.cpp">
+      <Filter>LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="LV03 Direct Adressing Table,Hash Table, 패턴찾기\1.cpp">
+      <Filter>LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="LV03 Direct Adressing Table,Hash Table, 패턴찾기\3.cpp">
+      <Filter>LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="LV03 Direct Adressing Table,Hash Table, 패턴찾기\4.cpp">
+      <Filter>LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="LV03 Direct Adressing Table,Hash Table, 패턴찾기\5.cpp">
+      <Filter>LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="LV03 Direct Adressing Table,Hash Table, 패턴찾기\6.cpp">
+      <Filter>LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="LV03 Direct Adressing Table,Hash Table, 패턴찾기\7.cpp">
+      <Filter>LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="LV03 Direct Adressing Table,Hash Table, 패턴찾기\8.cpp">
+      <Filter>LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
