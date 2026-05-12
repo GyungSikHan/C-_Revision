@@ -11,6 +11,9 @@
     <Filter Include="LV03 Direct Adressing Table, Hash Table, 패턴찾기">
       <UniqueIdentifier>{c559d577-5c4c-4c3f-bb2b-1cee840d8e12}</UniqueIdentifier>
     </Filter>
+    <Filter Include="LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기">
+      <UniqueIdentifier>{a14304b1-c429-4a39-9d98-6bfb8ab075ab}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include="클래스와구조체차이.md" />
@@ -59,16 +62,28 @@
       <Filter>LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
     </ClCompile>
     <ClCompile Include="LV03 Direct Adressing Table,Hash Table, 패턴찾기\5.cpp">
-      <Filter>LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+      <Filter>LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기</Filter>
     </ClCompile>
     <ClCompile Include="LV03 Direct Adressing Table,Hash Table, 패턴찾기\6.cpp">
-      <Filter>LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+      <Filter>LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기</Filter>
     </ClCompile>
     <ClCompile Include="LV03 Direct Adressing Table,Hash Table, 패턴찾기\7.cpp">
-      <Filter>LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+      <Filter>LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기</Filter>
     </ClCompile>
     <ClCompile Include="LV03 Direct Adressing Table,Hash Table, 패턴찾기\8.cpp">
-      <Filter>LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+      <Filter>LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\2.cpp">
+      <Filter>LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\3.cpp">
+      <Filter>LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\4.cpp">
+      <Filter>LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\1.cpp">
+      <Filter>LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

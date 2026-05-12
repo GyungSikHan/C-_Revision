@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 using namespace std;
 
 bool IsPattern(const char* str, const char* pattern, const int idx)

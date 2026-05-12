@@ -484,12 +484,129 @@
     <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\3.cpp">
       <Filter>자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\4.cpp" />
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\5.cpp" />
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\6.cpp" />
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\7.cpp" />
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\8.cpp" />
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\9.cpp" />
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\4.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\5.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\6.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\7.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\8.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\9.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\10.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\11.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\12.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\13.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\14.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\15.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\16.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\20.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\21.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\17.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\18.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\19.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\22.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\22Time.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\1.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\2.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\3.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\17.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\4.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\5.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\6.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\7.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\8.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\9.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\10.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\11.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\12.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\13.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\14.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\15.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\16.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\19.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\18.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV05 코테준비문제(정렬,검색)\MergeSortedArray.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV05 코테준비문제%28정렬,검색%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV05 코테준비문제(정렬,검색)\FirstBadVersion.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV05 코테준비문제%28정렬,검색%29</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="C++ 기초">
@@ -525,5 +642,16 @@
     <Filter Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기">
       <UniqueIdentifier>{8784fe2b-33d7-4a89-b4cb-3b684163ee82}</UniqueIdentifier>
     </Filter>
+    <Filter Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기">
+      <UniqueIdentifier>{e2ba5db2-6f7d-4589-a3be-d6d265cd653d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="자료구조 및 기초 알고리즘\LV05 코테준비문제%28정렬,검색%29">
+      <UniqueIdentifier>{a9bd7e6d-7e6d-47ca-9609-2ed59a43b334}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\22Time.h">
+      <Filter>자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

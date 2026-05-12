@@ -184,6 +184,10 @@
     <ClCompile Include="LV03 Direct Adressing Table,Hash Table, 패턴찾기\8.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\1.cpp" />
+    <ClCompile Include="LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\2.cpp" />
+    <ClCompile Include="LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\3.cpp" />
+    <ClCompile Include="LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\4.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
