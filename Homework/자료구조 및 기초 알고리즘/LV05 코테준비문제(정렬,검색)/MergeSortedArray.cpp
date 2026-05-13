@@ -1,43 +1,65 @@
 ﻿#include <iostream>
 using namespace std;
 
-void InputData(int* input, int* size)
+void InputData(int* input, const int size)
 {
-	for (int i = 0; i < 10; ++i)
-	{
-		int data{};
-		cin >> data;
+	if(size == 0 )
+		return;
 
-		if (data == 0)
-			break;
-		input[i] = data;
-		size++;
+	for (int i = 0; i < size; ++i)
+	{
+		cin >> input[i];
 	}
 }
 
-void SumArray(int* dest, const int* src1, const int src1Size, const int* src2, const int src2Size)
+void SumArray(int* src1, const int src1Size, const int* src2, const int src2Size)
 {
-	for (int i = 0; i < src1Size; ++i)
+	int idx{};
+	for (size_t i = src1Size; i < src1Size+src2Size; i++)
 	{
-		dest[i] = src1[i];
+		src1[i] = src2[idx++];
 	}
+	
+}
 
-	for (int i = 0; i < src2Size; ++i)
+void Sort(int* sort, const int* size)
+{
+	for (size_t i = 0; i < *size; i++)
 	{
-		dest[src1Size + i] = src2[i];
+		for (size_t j = i+1; j < *size; j++)
+		{
+			if(sort[i] > sort[j])
+			{
+				int temp = sort[i];
+				sort[i] = sort[j];
+				sort[j] = temp;
+			}
+		}
 	}
+}
+
+void Print(const int* data, const int* size)
+{
+	for (size_t i = 0; i < *size; i++)
+	{
+		cout<<data[i]<<" ";
+	}
+	
 }
 
 int main()
 {
-	int nums1[10]{};
-	int nums2[10]{};
-	int m{}, n{};
+	int nums1[100]{};
+	int nums2[100]{};
+	int m{}, n{}, idxSum;
+	cin>>m>>n;
 
-	InputData(nums1, &m);
-	InputData(nums2, &n);
+	InputData(nums1, m);
+	InputData(nums2, n);
 
-	int sort[12]{};
-	SumArray(sort, nums1, m, nums2, n);
-	int a{};
+	SumArray(nums1, m, nums2, n);
+	idxSum = m+n;
+
+	Sort(nums1, &idxSum);
+	Print(nums1, &idxSum);
 }
