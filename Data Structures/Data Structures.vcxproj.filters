@@ -85,5 +85,12 @@
     <ClCompile Include="LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\1.cpp">
       <Filter>LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기</Filter>
     </ClCompile>
+    <ClCompile Include="새 폴더\1.cpp" />
+    <ClCompile Include="새 폴더\2.cpp" />
+    <ClCompile Include="새 폴더\3.cpp" />
+    <ClCompile Include="새 폴더\4.cpp" />
+    <ClCompile Include="새 폴더\5.cpp" />
+    <ClCompile Include="새 폴더\6.cpp" />
+    <ClCompile Include="새 폴더\7.cpp" />
   </ItemGroup>
 </Project>
