@@ -607,6 +607,135 @@
     <ClCompile Include="자료구조 및 기초 알고리즘\LV05 코테준비문제(정렬,검색)\FirstBadVersion.cpp">
       <Filter>자료구조 및 기초 알고리즘\LV05 코테준비문제%28정렬,검색%29</Filter>
     </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비\1.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비\7.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비\6.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비\5.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비\4.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비\3.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비\2.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비\8.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비\9.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비\10.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비\11.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비\12.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비\13.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비\14.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비\15.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비\16.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\8.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\7.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\6.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\5.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\4.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\3.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\02.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\01.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\19.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\18.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\17.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\16.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\15.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\14.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\13.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\12.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\11.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\10.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\9.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 코테실전문제(정렬, 검색)\TopKFrequentElements.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV06 코테실전문제%28정렬, 검색%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 코테실전문제(정렬, 검색)\KthLargestElementInAnArray.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV06 코테실전문제%28정렬, 검색%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 코테실전문제(정렬, 검색)\FindPeakElement.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV06 코테실전문제%28정렬, 검색%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 코테실전문제(정렬, 검색)\SearchForARange.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV06 코테실전문제%28정렬, 검색%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 코테실전문제(정렬, 검색)\MergeIntervals.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV06 코테실전문제%28정렬, 검색%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 코테실전문제(정렬, 검색)\SearchInRotatedSortedArray.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV06 코테실전문제%28정렬, 검색%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 코테실전문제(정렬, 검색)\MeetingRooms2.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV06 코테실전문제%28정렬, 검색%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 코테실전문제(정렬, 검색)\SearchA2DMatrix2.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV06 코테실전문제%28정렬, 검색%29</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="C++ 기초">
@@ -647,6 +776,15 @@
     </Filter>
     <Filter Include="자료구조 및 기초 알고리즘\LV05 코테준비문제%28정렬,검색%29">
       <UniqueIdentifier>{a9bd7e6d-7e6d-47ca-9609-2ed59a43b334}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비">
+      <UniqueIdentifier>{716d33e8-916c-4f62-ae17-d28fb0fd1ee0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해">
+      <UniqueIdentifier>{c6a7d1ee-4279-461c-bd69-9f27347fa4cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="자료구조 및 기초 알고리즘\LV06 코테실전문제%28정렬, 검색%29">
+      <UniqueIdentifier>{29d8ee88-a19d-462e-bc65-a45d96df6a0f}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>

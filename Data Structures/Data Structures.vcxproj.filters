@@ -14,6 +14,9 @@
     <Filter Include="LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기">
       <UniqueIdentifier>{a14304b1-c429-4a39-9d98-6bfb8ab075ab}</UniqueIdentifier>
     </Filter>
+    <Filter Include="LV09 재귀함수 탐색 순서">
+      <UniqueIdentifier>{8b7f7732-2f2f-46ea-a764-34c3dfc6f9c7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include="클래스와구조체차이.md" />
@@ -85,12 +88,44 @@
     <ClCompile Include="LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\1.cpp">
       <Filter>LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기</Filter>
     </ClCompile>
-    <ClCompile Include="새 폴더\1.cpp" />
-    <ClCompile Include="새 폴더\2.cpp" />
-    <ClCompile Include="새 폴더\3.cpp" />
-    <ClCompile Include="새 폴더\4.cpp" />
-    <ClCompile Include="새 폴더\5.cpp" />
-    <ClCompile Include="새 폴더\6.cpp" />
-    <ClCompile Include="새 폴더\7.cpp" />
+    <ClCompile Include="새 폴더\1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="새 폴더\2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="새 폴더\3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="새 폴더\4.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="새 폴더\5.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="새 폴더\6.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="새 폴더\7.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="새 폴더 (2)\1.cpp">
+      <Filter>LV09 재귀함수 탐색 순서</Filter>
+    </ClCompile>
+    <ClCompile Include="새 폴더 (2)\2.cpp">
+      <Filter>LV09 재귀함수 탐색 순서</Filter>
+    </ClCompile>
+    <ClCompile Include="새 폴더 (2)\3N-Queen.cpp">
+      <Filter>LV09 재귀함수 탐색 순서</Filter>
+    </ClCompile>
+    <ClCompile Include="새 폴더 (2)\4cpp.cpp">
+      <Filter>LV09 재귀함수 탐색 순서</Filter>
+    </ClCompile>
+    <ClCompile Include="새 폴더 (2)\5.cpp">
+      <Filter>LV09 재귀함수 탐색 순서</Filter>
+    </ClCompile>
+    <ClCompile Include="새 폴더 (2)\6.cpp">
+      <Filter>LV09 재귀함수 탐색 순서</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
