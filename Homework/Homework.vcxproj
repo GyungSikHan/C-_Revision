@@ -733,20 +733,169 @@
     <ClCompile Include="자료구조 및 기초 알고리즘\LV06 코테실전문제(정렬, 검색)\FindPeakElement.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 코테실전문제(정렬, 검색)\KthLargestElementInAnArray.cpp" />
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 코테실전문제(정렬, 검색)\MeetingRooms2.cpp" />
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 코테실전문제(정렬, 검색)\MergeIntervals.cpp" />
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 코테실전문제(정렬, 검색)\SearchA2DMatrix2.cpp" />
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 코테실전문제(정렬, 검색)\SearchForARange.cpp" />
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 코테실전문제(정렬, 검색)\KthLargestElementInAnArray.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 코테실전문제(정렬, 검색)\MeetingRooms2.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 코테실전문제(정렬, 검색)\MergeIntervals.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 코테실전문제(정렬, 검색)\SearchA2DMatrix2.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 코테실전문제(정렬, 검색)\SearchForARange.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="자료구조 및 기초 알고리즘\LV06 코테실전문제(정렬, 검색)\SearchInRotatedSortedArray.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 코테실전문제(정렬, 검색)\TopKFrequentElements.cpp" />
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 코테실전문제(정렬, 검색)\TopKFrequentElements.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\1.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\10.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\11.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\12.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\13.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\14.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\15.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\16.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\2.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\3.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\4.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\5.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\6.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\7.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\8.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\9.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\1.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\10.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\11.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\12.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\2.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\3.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\4.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\5.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\6.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\7.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\8.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\9.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\1.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\10.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\11.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\12.cpp" />
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\2.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\3.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\4.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\5.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\6.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\7.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\8.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\9.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\코테실전문제(백트래킹)\괄호생성.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\코테실전문제(백트래킹)\단어검색.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\코테실전문제(백트래킹)\부분집합.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\코테실전문제(백트래킹)\순열.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\코테실전문제(백트래킹)\전화번호의문자조합.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="resource.h" />
     <ClInclude Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\22Time.h">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Homework.rc" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>

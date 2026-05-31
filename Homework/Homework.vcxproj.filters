@@ -736,6 +736,137 @@
     <ClCompile Include="자료구조 및 기초 알고리즘\LV06 코테실전문제(정렬, 검색)\SearchA2DMatrix2.cpp">
       <Filter>자료구조 및 기초 알고리즘\LV06 코테실전문제%28정렬, 검색%29</Filter>
     </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\2.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\3.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\4.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\5.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\6.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\7.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\8.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\9.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\10.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\11.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\12.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\13.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\14.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\15.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\16.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\1.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\3.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\4.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\5.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\6.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\7.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\8.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\9.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\10.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\11.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\12.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\1.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\2.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\코테실전문제(백트래킹)\순열.cpp">
+      <Filter>자료구조 및 기초 알고리즘\코테실전문제%28백트래킹%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\코테실전문제(백트래킹)\전화번호의문자조합.cpp">
+      <Filter>자료구조 및 기초 알고리즘\코테실전문제%28백트래킹%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\코테실전문제(백트래킹)\괄호생성.cpp">
+      <Filter>자료구조 및 기초 알고리즘\코테실전문제%28백트래킹%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\코테실전문제(백트래킹)\단어검색.cpp">
+      <Filter>자료구조 및 기초 알고리즘\코테실전문제%28백트래킹%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\코테실전문제(백트래킹)\부분집합.cpp">
+      <Filter>자료구조 및 기초 알고리즘\코테실전문제%28백트래킹%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\1.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습%28상속, 가상함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\2.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습%28상속, 가상함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\3.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습%28상속, 가상함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\10.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습%28상속, 가상함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\4.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습%28상속, 가상함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\5.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습%28상속, 가상함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\6.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습%28상속, 가상함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\7.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습%28상속, 가상함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\8.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습%28상속, 가상함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\9.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습%28상속, 가상함수%29</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\11.cpp" />
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\12.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="C++ 기초">
@@ -786,10 +917,26 @@
     <Filter Include="자료구조 및 기초 알고리즘\LV06 코테실전문제%28정렬, 검색%29">
       <UniqueIdentifier>{29d8ee88-a19d-462e-bc65-a45d96df6a0f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서">
+      <UniqueIdentifier>{832ee241-b037-41e6-9639-321702e7c3c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기">
+      <UniqueIdentifier>{3af2cdcd-b0e7-435d-813f-b7bf82546835}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="자료구조 및 기초 알고리즘\코테실전문제%28백트래킹%29">
+      <UniqueIdentifier>{a7a52907-3d47-4592-9a7d-d843062c17cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습%28상속, 가상함수%29">
+      <UniqueIdentifier>{5a807e25-cd88-4098-b5ed-0adc25683303}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\22Time.h">
       <Filter>자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기</Filter>
     </ClInclude>
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Homework.rc" />
   </ItemGroup>
 </Project>
