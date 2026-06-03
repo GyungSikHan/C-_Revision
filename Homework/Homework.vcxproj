@@ -889,7 +889,9 @@
     <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\24.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\25.cpp" />
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\25.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\3.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -909,6 +911,51 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\9.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습(상속, 가상함수) Part2\1.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습(상속, 가상함수) Part2\10.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습(상속, 가상함수) Part2\11.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습%28상속, 가상함수%29 Part2\13.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습%28상속, 가상함수%29 Part2\14.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습%28상속, 가상함수%29 Part2\15.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습(상속, 가상함수) Part2\12.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습(상속, 가상함수) Part2\2.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습(상속, 가상함수) Part2\3.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습(상속, 가상함수) Part2\4.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습(상속, 가상함수) Part2\5.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습(상속, 가상함수) Part2\6.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습(상속, 가상함수) Part2\7.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습(상속, 가상함수) Part2\8.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습(상속, 가상함수) Part2\9.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="자료구조 및 기초 알고리즘\코테실전문제(백트래킹)\괄호생성.cpp">

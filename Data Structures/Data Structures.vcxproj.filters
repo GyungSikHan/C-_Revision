@@ -17,6 +17,12 @@
     <Filter Include="LV09 재귀함수 탐색 순서">
       <UniqueIdentifier>{8b7f7732-2f2f-46ea-a764-34c3dfc6f9c7}</UniqueIdentifier>
     </Filter>
+    <Filter Include="LV11 객체지향 프로그래밍 연습%28상속, 가상함수%29-part1">
+      <UniqueIdentifier>{83571d4f-36e8-4784-ba92-4d1265388245}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LV12 객체지향 프로그래밍 연습%28상속, 가상함수%29-part2">
+      <UniqueIdentifier>{eeb73e18-ddf1-49b7-a694-1bda612738e3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include="클래스와구조체차이.md" />
@@ -126,6 +132,24 @@
     </ClCompile>
     <ClCompile Include="새 폴더 (2)\6.cpp">
       <Filter>LV09 재귀함수 탐색 순서</Filter>
+    </ClCompile>
+    <ClCompile Include="LV11 객체지향 프로그래밍 연습(상속, 가상함수)-part1\1.cpp">
+      <Filter>LV11 객체지향 프로그래밍 연습%28상속, 가상함수%29-part1</Filter>
+    </ClCompile>
+    <ClCompile Include="LV11 객체지향 프로그래밍 연습(상속, 가상함수)-part1\2.cpp">
+      <Filter>LV11 객체지향 프로그래밍 연습%28상속, 가상함수%29-part1</Filter>
+    </ClCompile>
+    <ClCompile Include="LV11 객체지향 프로그래밍 연습(상속, 가상함수)-part1\3.cpp">
+      <Filter>LV11 객체지향 프로그래밍 연습%28상속, 가상함수%29-part1</Filter>
+    </ClCompile>
+    <ClCompile Include="LV11 객체지향 프로그래밍 연습(상속, 가상함수)-part1\4.cpp">
+      <Filter>LV11 객체지향 프로그래밍 연습%28상속, 가상함수%29-part1</Filter>
+    </ClCompile>
+    <ClCompile Include="LV11 객체지향 프로그래밍 연습(상속, 가상함수)-part1\5.cpp">
+      <Filter>LV11 객체지향 프로그래밍 연습%28상속, 가상함수%29-part1</Filter>
+    </ClCompile>
+    <ClCompile Include="새 폴더 %283%29\1.cpp">
+      <Filter>LV12 객체지향 프로그래밍 연습%28상속, 가상함수%29-part2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
