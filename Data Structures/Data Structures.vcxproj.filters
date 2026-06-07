@@ -23,6 +23,9 @@
     <Filter Include="LV12 객체지향 프로그래밍 연습%28상속, 가상함수%29-part2">
       <UniqueIdentifier>{eeb73e18-ddf1-49b7-a694-1bda612738e3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="LV13 포인터 복습, 구조체 포인터 변수">
+      <UniqueIdentifier>{a0f53539-942b-4803-8868-ae87699c6fe5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include="클래스와구조체차이.md" />
@@ -150,6 +153,9 @@
     </ClCompile>
     <ClCompile Include="새 폴더 %283%29\1.cpp">
       <Filter>LV12 객체지향 프로그래밍 연습%28상속, 가상함수%29-part2</Filter>
+    </ClCompile>
+    <ClCompile Include="LV13 Revision of Pointers, Pointer Variables to Structures\1.cpp">
+      <Filter>LV13 포인터 복습, 구조체 포인터 변수</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

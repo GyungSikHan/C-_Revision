@@ -211,6 +211,7 @@
     <ClCompile Include="LV11 객체지향 프로그래밍 연습(상속, 가상함수)-part1\5.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="LV13 Revision of Pointers, Pointer Variables to Structures\1.cpp" />
     <ClCompile Include="새 폴더 (2)\1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
