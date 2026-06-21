@@ -26,6 +26,18 @@
     <Filter Include="LV13 포인터 복습, 구조체 포인터 변수">
       <UniqueIdentifier>{a0f53539-942b-4803-8868-ae87699c6fe5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="LV14 동적할당, 링크드리스트 함수화">
+      <UniqueIdentifier>{829347fa-64c7-4ea9-bcc1-e034b7388e67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LV15 템플릿, 리스트, 연산자 오버로딩">
+      <UniqueIdentifier>{15b9326f-909e-4ece-abff-02f6d2094557}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LV16 String Class">
+      <UniqueIdentifier>{46701c98-6af4-4460-9380-ebce1ae60584}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LV17 Implementing std::vector">
+      <UniqueIdentifier>{628f587b-1922-4809-8a4f-56c1f343f55f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include="클래스와구조체차이.md" />
@@ -156,6 +168,99 @@
     </ClCompile>
     <ClCompile Include="LV13 Revision of Pointers, Pointer Variables to Structures\1.cpp">
       <Filter>LV13 포인터 복습, 구조체 포인터 변수</Filter>
+    </ClCompile>
+    <ClCompile Include="LV13 Revision of Pointers, Pointer Variables to Structures\2.cpp">
+      <Filter>LV13 포인터 복습, 구조체 포인터 변수</Filter>
+    </ClCompile>
+    <ClCompile Include="LV14 Dynamic Allocation, Linked List Functions\1.cpp">
+      <Filter>LV14 동적할당, 링크드리스트 함수화</Filter>
+    </ClCompile>
+    <ClCompile Include="LV14 Dynamic Allocation, Linked List Functions\2.cpp">
+      <Filter>LV14 동적할당, 링크드리스트 함수화</Filter>
+    </ClCompile>
+    <ClCompile Include="LV14 Dynamic Allocation, Linked List Functions\3.cpp">
+      <Filter>LV14 동적할당, 링크드리스트 함수화</Filter>
+    </ClCompile>
+    <ClCompile Include="LV14 Dynamic Allocation, Linked List Functions\4.cpp">
+      <Filter>LV14 동적할당, 링크드리스트 함수화</Filter>
+    </ClCompile>
+    <ClCompile Include="LV15 Templates_Lists_Operator_Overloading\1.cpp">
+      <Filter>LV15 템플릿, 리스트, 연산자 오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="LV15 Templates_Lists_Operator_Overloading\2.cpp">
+      <Filter>LV15 템플릿, 리스트, 연산자 오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="LV16 String Class\1.cpp">
+      <Filter>LV16 String Class</Filter>
+    </ClCompile>
+    <ClCompile Include="LV16 String Class\2.cpp">
+      <Filter>LV16 String Class</Filter>
+    </ClCompile>
+    <ClCompile Include="LV16 String Class\3.cpp">
+      <Filter>LV16 String Class</Filter>
+    </ClCompile>
+    <ClCompile Include="LV15 Templates_Lists_Operator_Overloading\ValueType.cpp">
+      <Filter>LV15 템플릿, 리스트, 연산자 오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="LV15 Templates_Lists_Operator_Overloading\Func.cpp">
+      <Filter>LV15 템플릿, 리스트, 연산자 오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="LV15 Templates_Lists_Operator_Overloading\ValueType2.cpp">
+      <Filter>LV15 템플릿, 리스트, 연산자 오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="LV15 Templates_Lists_Operator_Overloading\Func2.cpp">
+      <Filter>LV15 템플릿, 리스트, 연산자 오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="LV15 Templates_Lists_Operator_Overloading\Explicit.cpp">
+      <Filter>LV15 템플릿, 리스트, 연산자 오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="LV15 Templates_Lists_Operator_Overloading\Explicit2.cpp">
+      <Filter>LV15 템플릿, 리스트, 연산자 오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="LV15 Templates_Lists_Operator_Overloading\class2.cpp">
+      <Filter>LV15 템플릿, 리스트, 연산자 오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="LV15 Templates_Lists_Operator_Overloading\Class.cpp">
+      <Filter>LV15 템플릿, 리스트, 연산자 오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="LV15 Templates_Lists_Operator_Overloading\VariableArgument.cpp">
+      <Filter>LV15 템플릿, 리스트, 연산자 오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="LV15 Templates_Lists_Operator_Overloading\VariableArgument2.cpp">
+      <Filter>LV15 템플릿, 리스트, 연산자 오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="LV15 Templates_Lists_Operator_Overloading\FoldExpressions.cpp">
+      <Filter>LV15 템플릿, 리스트, 연산자 오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="LV15 Templates_Lists_Operator_Overloading\FoldExpressions2.cpp">
+      <Filter>LV15 템플릿, 리스트, 연산자 오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="LV15 Templates_Lists_Operator_Overloading\templateList.cpp">
+      <Filter>LV15 템플릿, 리스트, 연산자 오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="LV15 Templates_Lists_Operator_Overloading\templateList2.cpp">
+      <Filter>LV15 템플릿, 리스트, 연산자 오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="LV15 Templates_Lists_Operator_Overloading\OperatorOverloading.cpp">
+      <Filter>LV15 템플릿, 리스트, 연산자 오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="LV15 Templates_Lists_Operator_Overloading\OperatorOVerloading2.cpp">
+      <Filter>LV15 템플릿, 리스트, 연산자 오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="LV15 Templates_Lists_Operator_Overloading\ComplexOperatorOverloading.cpp">
+      <Filter>LV15 템플릿, 리스트, 연산자 오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="LV15 Templates_Lists_Operator_Overloading\ComplexOperatorOverloading2.cpp">
+      <Filter>LV15 템플릿, 리스트, 연산자 오버로딩</Filter>
+    </ClCompile>
+    <ClCompile Include="LV16 String Class\string.cpp">
+      <Filter>LV16 String Class</Filter>
+    </ClCompile>
+    <ClCompile Include="LV17 Implementing stdvector\vector.cpp">
+      <Filter>LV17 Implementing std::vector</Filter>
+    </ClCompile>
+    <ClCompile Include="LV17 Implementing stdvector\vector2.cpp">
+      <Filter>LV17 Implementing std::vector</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

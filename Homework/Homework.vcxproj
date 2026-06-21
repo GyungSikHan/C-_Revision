@@ -19,1001 +19,886 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="20.cpp">
+    <ClCompile Include="14.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="21.cpp">
+    <ClCompile Include="15.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="22.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\1. Coding Test TPreparation Problems (Sorting, Searching)\FirstBadVersion.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="23.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\1. Coding Test TPreparation Problems (Sorting, Searching)\MergeSortedArray.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="24cpp.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="25.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\1.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\10.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\11.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\12.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\13.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\14.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\15.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\16.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\17.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\18.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\19.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\2.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\20.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\21.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\22.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\23.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\24.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\25.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\26.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\27.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\28.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\29.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\3.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\30.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\31.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\32.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\33.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\34.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\35.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\36.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\37.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\38.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\39.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\4.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\40.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\41.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\42.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\5.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\6.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\7.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\8.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\10.11PointerTypeValue\9.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\12.Strings, string length, and the use of nested for loops\1.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\12.Strings, string length, and the use of nested for loops\10.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\12.Strings, string length, and the use of nested for loops\11.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\12.Strings, string length, and the use of nested for loops\12.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\12.Strings, string length, and the use of nested for loops\13.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\12.Strings, string length, and the use of nested for loops\14.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\12.Strings, string length, and the use of nested for loops\15.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\12.Strings, string length, and the use of nested for loops\16.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\12.Strings, string length, and the use of nested for loops\17.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\12.Strings, string length, and the use of nested for loops\18.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\12.Strings, string length, and the use of nested for loops\2.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\12.Strings, string length, and the use of nested for loops\3.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\12.Strings, string length, and the use of nested for loops\4.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\12.Strings, string length, and the use of nested for loops\5.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="C++ 기초\12.Strings, string length, and the use of nested for loops\6.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\2. Coding Test Problems (Sorting, Searching)\FindPeakElement.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\12.Strings, string length, and the use of nested for loops\7.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\2. Coding Test Problems (Sorting, Searching)\KthLargestElementInAnArray.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\12.Strings, string length, and the use of nested for loops\8.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\2. Coding Test Problems (Sorting, Searching)\MeetingRooms2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\12.Strings, string length, and the use of nested for loops\9.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\2. Coding Test Problems (Sorting, Searching)\MergeIntervals.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\13.포인터의 활용(배열, 함수)\1.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\2. Coding Test Problems (Sorting, Searching)\SearchA2DMatrix2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\13.포인터의 활용(배열, 함수)\10.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\2. Coding Test Problems (Sorting, Searching)\SearchForARange.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\13.포인터의 활용(배열, 함수)\11.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\2. Coding Test Problems (Sorting, Searching)\SearchInRotatedSortedArray.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\13.포인터의 활용(배열, 함수)\12.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\2. Coding Test Problems (Sorting, Searching)\SortColors.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\13.포인터의 활용(배열, 함수)\2.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\2. Coding Test Problems (Sorting, Searching)\TopKFrequentElements.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\13.포인터의 활용(배열, 함수)\3.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\3. Coding Test Specialised Problems (Backtracking)\괄호생성.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\13.포인터의 활용(배열, 함수)\4.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\3. Coding Test Specialised Problems (Backtracking)\단어검색.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\13.포인터의 활용(배열, 함수)\5.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\3. Coding Test Specialised Problems (Backtracking)\부분집합.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\13.포인터의 활용(배열, 함수)\6.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\3. Coding Test Specialised Problems (Backtracking)\순열.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\13.포인터의 활용(배열, 함수)\7.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\3. Coding Test Specialised Problems (Backtracking)\전화번호의문자조합.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\13.포인터의 활용(배열, 함수)\8.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\4. Coding Test TPreparation Problems %28Linked List%29\listerase.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\13.포인터의 활용(배열, 함수)\9.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\4. Coding Test TPreparation Problems %28Linked List%29\RemoveNthNodeFromEndnofList.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\14.버블,선택정렬\1.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\4. Coding Test TPreparation Problems (Linked List)\LinkedListCycle.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\14.버블,선택정렬\10.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\4. Coding Test TPreparation Problems (Linked List)\MergeTwoSortedLists.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\14.버블,선택정렬\11.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\4. Coding Test TPreparation Problems (Linked List)\PalindromeLinkedList.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\14.버블,선택정렬\12.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\4. Coding Test TPreparation Problems (Linked List)\ReverseLinkedList.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\14.버블,선택정렬\13.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\5. Coding Test Specialised Problems (Linked List)\AddTwoNumbers.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\14.버블,선택정렬\14.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\5. Coding Test Specialised Problems (Linked List)\IntersectionofTwo.cpp" />
+    <ClCompile Include="Data Structures and Basic Algorithms\5. Coding Test Specialised Problems (Linked List)\OddEvenLinkedList.cpp" />
+    <ClCompile Include="Data Structures and Basic Algorithms\LV00 Object-Oriented Programming Exercises\1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\14.버블,선택정렬\2.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV00 Object-Oriented Programming Exercises\10.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\14.버블,선택정렬\3.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV00 Object-Oriented Programming Exercises\11.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\14.버블,선택정렬\4.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV00 Object-Oriented Programming Exercises\12.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\14.버블,선택정렬\5.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV00 Object-Oriented Programming Exercises\13.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\14.버블,선택정렬\6.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV00 Object-Oriented Programming Exercises\14.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\14.버블,선택정렬\7.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV00 Object-Oriented Programming Exercises\15.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\14.버블,선택정렬\8.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV00 Object-Oriented Programming Exercises\16.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\14.버블,선택정렬\9.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV00 Object-Oriented Programming Exercises\17.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\15.포인터변수의원리와문자열\1.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV00 Object-Oriented Programming Exercises\18.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\15.포인터변수의원리와문자열\10.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV00 Object-Oriented Programming Exercises\19.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\15.포인터변수의원리와문자열\11.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV00 Object-Oriented Programming Exercises\2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\15.포인터변수의원리와문자열\2.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV00 Object-Oriented Programming Exercises\20.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\15.포인터변수의원리와문자열\3.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV00 Object-Oriented Programming Exercises\3.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\15.포인터변수의원리와문자열\4.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV00 Object-Oriented Programming Exercises\4.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\15.포인터변수의원리와문자열\5.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV00 Object-Oriented Programming Exercises\5.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\15.포인터변수의원리와문자열\6.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV00 Object-Oriented Programming Exercises\6.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\15.포인터변수의원리와문자열\7.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV00 Object-Oriented Programming Exercises\7.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\15.포인터변수의원리와문자열\8.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV00 Object-Oriented Programming Exercises\8.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="C++ 기초\15.포인터변수의원리와문자열\9.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV00 Object-Oriented Programming Exercises\9.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\1.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV01 The Difference Between Classes and Structures, OOP\1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\10.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV01 The Difference Between Classes and Structures, OOP\10.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\11.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV01 The Difference Between Classes and Structures, OOP\11.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\12.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV01 The Difference Between Classes and Structures, OOP\12.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\13.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV01 The Difference Between Classes and Structures, OOP\13.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\14.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV01 The Difference Between Classes and Structures, OOP\14.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\15.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV01 The Difference Between Classes and Structures, OOP\15.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\16.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV01 The Difference Between Classes and Structures, OOP\16.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\17.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV01 The Difference Between Classes and Structures, OOP\17.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\18.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV01 The Difference Between Classes and Structures, OOP\18.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\19.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV01 The Difference Between Classes and Structures, OOP\19.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\2.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV01 The Difference Between Classes and Structures, OOP\2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\20.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV01 The Difference Between Classes and Structures, OOP\20.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\3.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV01 The Difference Between Classes and Structures, OOP\3.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\4.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV01 The Difference Between Classes and Structures, OOP\4.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\5.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV01 The Difference Between Classes and Structures, OOP\5.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\6.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV01 The Difference Between Classes and Structures, OOP\6.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\7.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV01 The Difference Between Classes and Structures, OOP\7.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\8.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV01 The Difference Between Classes and Structures, OOP\8.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV00 객체지향 프로그래밍 연습\9.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV01 The Difference Between Classes and Structures, OOP\9.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\1.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV04 Revision of Basics (Masking, Multiple Counting, Indexing, Functions)\1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\10.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV04 Revision of Basics (Masking, Multiple Counting, Indexing, Functions)\10.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\11.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV04 Revision of Basics (Masking, Multiple Counting, Indexing, Functions)\11.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\12.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV04 Revision of Basics (Masking, Multiple Counting, Indexing, Functions)\12.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\13.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV04 Revision of Basics (Masking, Multiple Counting, Indexing, Functions)\13.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\14.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV04 Revision of Basics (Masking, Multiple Counting, Indexing, Functions)\14.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\15.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV04 Revision of Basics (Masking, Multiple Counting, Indexing, Functions)\15.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\16.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV04 Revision of Basics (Masking, Multiple Counting, Indexing, Functions)\16.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\17.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV04 Revision of Basics (Masking, Multiple Counting, Indexing, Functions)\17.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\18.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV04 Revision of Basics (Masking, Multiple Counting, Indexing, Functions)\18.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\19.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV04 Revision of Basics (Masking, Multiple Counting, Indexing, Functions)\19.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\2.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV04 Revision of Basics (Masking, Multiple Counting, Indexing, Functions)\2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\20.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV04 Revision of Basics (Masking, Multiple Counting, Indexing, Functions)\20.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\3.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV04 Revision of Basics (Masking, Multiple Counting, Indexing, Functions)\21.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\4.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV04 Revision of Basics (Masking, Multiple Counting, Indexing, Functions)\3.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\5.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV04 Revision of Basics (Masking, Multiple Counting, Indexing, Functions)\4.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\6.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV04 Revision of Basics (Masking, Multiple Counting, Indexing, Functions)\6.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\7.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV04 Revision of Basics (Masking, Multiple Counting, Indexing, Functions)\7.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\8.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV04 Revision of Basics (Masking, Multiple Counting, Indexing, Functions)\8.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV01 클래스와 구조체 차이, OOP\9.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV04 Revision of Basics (Masking, Multiple Counting, Indexing, Functions)\9.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\1.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV04 Revision of Basics (Masking, Multiple Counting, Indexing, Functions)\５.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\10.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV05 Direct Adressing Table, Hash Table, Spot the pattern\1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\11.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV05 Direct Adressing Table, Hash Table, Spot the pattern\10.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\12.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV05 Direct Adressing Table, Hash Table, Spot the pattern\11.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\13.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV05 Direct Adressing Table, Hash Table, Spot the pattern\12.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\14.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV05 Direct Adressing Table, Hash Table, Spot the pattern\13.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\15.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV05 Direct Adressing Table, Hash Table, Spot the pattern\14.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\16.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV05 Direct Adressing Table, Hash Table, Spot the pattern\15.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\17.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV05 Direct Adressing Table, Hash Table, Spot the pattern\16.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\18.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV05 Direct Adressing Table, Hash Table, Spot the pattern\17.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\19.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV05 Direct Adressing Table, Hash Table, Spot the pattern\18.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\2.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV05 Direct Adressing Table, Hash Table, Spot the pattern\19.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\20.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV05 Direct Adressing Table, Hash Table, Spot the pattern\2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\21.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV05 Direct Adressing Table, Hash Table, Spot the pattern\20.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\3.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV05 Direct Adressing Table, Hash Table, Spot the pattern\21.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\4.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV05 Direct Adressing Table, Hash Table, Spot the pattern\22.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\6.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV05 Direct Adressing Table, Hash Table, Spot the pattern\22Time.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\7.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV05 Direct Adressing Table, Hash Table, Spot the pattern\3.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\8.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV05 Direct Adressing Table, Hash Table, Spot the pattern\4.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\9.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV05 Direct Adressing Table, Hash Table, Spot the pattern\5.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV02 기본기 복습(마스킹, 다중카운팅, 인덱스, 함수)\５.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV05 Direct Adressing Table, Hash Table, Spot the pattern\6.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\1.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV05 Direct Adressing Table, Hash Table, Spot the pattern\7.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\10.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV05 Direct Adressing Table, Hash Table, Spot the pattern\8.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\11.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV05 Direct Adressing Table, Hash Table, Spot the pattern\9.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\12.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV06 Direct_Method_Double_Pointer_Two-Dimensional_Array_Pattern_Recognition\1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\13.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV06 Direct_Method_Double_Pointer_Two-Dimensional_Array_Pattern_Recognition\10.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\14.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV06 Direct_Method_Double_Pointer_Two-Dimensional_Array_Pattern_Recognition\11.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\15.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV06 Direct_Method_Double_Pointer_Two-Dimensional_Array_Pattern_Recognition\12.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\16.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV06 Direct_Method_Double_Pointer_Two-Dimensional_Array_Pattern_Recognition\13.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\17.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV06 Direct_Method_Double_Pointer_Two-Dimensional_Array_Pattern_Recognition\14.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\18.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV06 Direct_Method_Double_Pointer_Two-Dimensional_Array_Pattern_Recognition\15.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\19.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV06 Direct_Method_Double_Pointer_Two-Dimensional_Array_Pattern_Recognition\16.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\2.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV06 Direct_Method_Double_Pointer_Two-Dimensional_Array_Pattern_Recognition\17.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\20.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV06 Direct_Method_Double_Pointer_Two-Dimensional_Array_Pattern_Recognition\18.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\21.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV06 Direct_Method_Double_Pointer_Two-Dimensional_Array_Pattern_Recognition\19.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\22.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV06 Direct_Method_Double_Pointer_Two-Dimensional_Array_Pattern_Recognition\2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\22Time.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV06 Direct_Method_Double_Pointer_Two-Dimensional_Array_Pattern_Recognition\3.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\3.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV06 Direct_Method_Double_Pointer_Two-Dimensional_Array_Pattern_Recognition\4.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\4.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV06 Direct_Method_Double_Pointer_Two-Dimensional_Array_Pattern_Recognition\5.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\5.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV06 Direct_Method_Double_Pointer_Two-Dimensional_Array_Pattern_Recognition\6.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\6.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV06 Direct_Method_Double_Pointer_Two-Dimensional_Array_Pattern_Recognition\7.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\7.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV06 Direct_Method_Double_Pointer_Two-Dimensional_Array_Pattern_Recognition\8.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\8.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV06 Direct_Method_Double_Pointer_Two-Dimensional_Array_Pattern_Recognition\9.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\9.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\01.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\1.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\02.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\10.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\10.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\11.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\11.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\12.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\12.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\13.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\13.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\14.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\14.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\15.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\15.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\16.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\16.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\17.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\17.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\18.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\18.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\19.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\19.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\2.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\3.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\3.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\4.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\4.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\5.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\5.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\6.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\6.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\7.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\7.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\8.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\8.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\9.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV04_Direct기법_2중_포인터_2차원_배열_패턴찾기\9.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV08 cstring, depth and breadth of recursive function calls\1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV05 코테준비문제(정렬,검색)\FirstBadVersion.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV08 cstring, depth and breadth of recursive function calls\10.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV05 코테준비문제(정렬,검색)\MergeSortedArray.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV08 cstring, depth and breadth of recursive function calls\11.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\01.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV08 cstring, depth and breadth of recursive function calls\12.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\02.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV08 cstring, depth and breadth of recursive function calls\13.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\10.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV08 cstring, depth and breadth of recursive function calls\14.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\11.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV08 cstring, depth and breadth of recursive function calls\15.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\12.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV08 cstring, depth and breadth of recursive function calls\16.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\13.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV08 cstring, depth and breadth of recursive function calls\2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\14.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV08 cstring, depth and breadth of recursive function calls\3.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\15.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV08 cstring, depth and breadth of recursive function calls\4.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\16.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV08 cstring, depth and breadth of recursive function calls\5.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\17.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV08 cstring, depth and breadth of recursive function calls\6.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\18.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV08 cstring, depth and breadth of recursive function calls\7.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\19.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV08 cstring, depth and breadth of recursive function calls\8.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\3.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV08 cstring, depth and breadth of recursive function calls\9.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\4.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV09 Order of Recursion\1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\5.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV09 Order of Recursion\10.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\6.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV09 Order of Recursion\11.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\7.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV09 Order of Recursion\12.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\8.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV09 Order of Recursion\13.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV05_재귀_함수에_대한_사실과_오해\9.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV09 Order of Recursion\14.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비\1.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV09 Order of Recursion\15.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비\10.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV09 Order of Recursion\16.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비\11.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV09 Order of Recursion\2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비\12.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV09 Order of Recursion\3.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비\13.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV09 Order of Recursion\4.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비\14.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV09 Order of Recursion\5.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비\15.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV09 Order of Recursion\6.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비\16.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV09 Order of Recursion\7.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비\2.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV09 Order of Recursion\8.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비\3.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV09 Order of Recursion\9.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비\4.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV10 Pruning Recursive Functions\1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비\5.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV10 Pruning Recursive Functions\10.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비\6.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV10 Pruning Recursive Functions\11.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비\7.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV10 Pruning Recursive Functions\12.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비\8.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV10 Pruning Recursive Functions\2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 cstring, 재귀함수 호출의 깊이와 너비\9.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV10 Pruning Recursive Functions\3.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 코테실전문제(정렬, 검색)\FindPeakElement.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV10 Pruning Recursive Functions\4.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 코테실전문제(정렬, 검색)\KthLargestElementInAnArray.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV10 Pruning Recursive Functions\5.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 코테실전문제(정렬, 검색)\MeetingRooms2.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV10 Pruning Recursive Functions\6.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 코테실전문제(정렬, 검색)\MergeIntervals.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV10 Pruning Recursive Functions\7.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 코테실전문제(정렬, 검색)\SearchA2DMatrix2.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV10 Pruning Recursive Functions\8.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 코테실전문제(정렬, 검색)\SearchForARange.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV10 Pruning Recursive Functions\9.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 코테실전문제(정렬, 검색)\SearchInRotatedSortedArray.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV11 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 1\1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV06 코테실전문제(정렬, 검색)\TopKFrequentElements.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV11 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 1\10.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\1.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV11 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 1\11.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\10.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV11 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 1\12.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\11.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV11 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 1\13.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\12.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV11 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 1\14.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\13.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV11 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 1\15.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\14.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV11 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 1\16.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\15.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV11 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 1\17.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\16.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV11 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 1\18.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\2.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV11 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 1\19.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\3.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV11 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 1\2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\4.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV11 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 1\20.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\5.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV11 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 1\21.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\6.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV11 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 1\22.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\7.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV11 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 1\23.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\8.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV11 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 1\24.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV07 재귀함수 탐색 순서\9.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV11 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 1\25.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\1.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV11 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 1\3.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\10.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV11 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 1\4.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\11.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV11 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 1\5.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\12.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV11 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 1\6.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\2.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV11 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 1\7.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\3.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV11 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 1\8.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\4.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV11 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 1\9.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\5.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV12 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 2\1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\6.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV12 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 2\10.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\7.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV12 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 2\11.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\8.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV12 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 2\12.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV08 재귀함수 가지치기\9.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV12 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 2\13.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\1.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV12 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 2\14.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\10.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV12 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 2\15.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\11.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV12 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 2\16.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\12.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV12 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 2\17.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\13.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV12 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 2\18.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\14.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV12 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 2\19.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\15.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV12 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 2\2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\16.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV12 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 2\20.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\17.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV12 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 2\21.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\18.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV12 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 2\22.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\19.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV12 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 2\23.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\2.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV12 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 2\24.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\20.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV12 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 2\25.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\21.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV12 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 2\3.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\22.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV12 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 2\4.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\23.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV12 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 2\5.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\24.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV12 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 2\6.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\25.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV12 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 2\7.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\3.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV12 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 2\8.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\4.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV12 Object-Oriented Programming Exercises (Inheritance, Virtual Functions) Part 2\9.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\5.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV13 Revision of Pointers, Pointer Variables to Structures\1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\6.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV13 Revision of Pointers, Pointer Variables to Structures\10.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\7.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV13 Revision of Pointers, Pointer Variables to Structures\11.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\8.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV13 Revision of Pointers, Pointer Variables to Structures\2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV09 객체지향 프로그래밍 연습(상속, 가상함수) Part1\9.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV13 Revision of Pointers, Pointer Variables to Structures\3.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습(상속, 가상함수) Part2\1.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV13 Revision of Pointers, Pointer Variables to Structures\4.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습(상속, 가상함수) Part2\10.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV13 Revision of Pointers, Pointer Variables to Structures\5.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습(상속, 가상함수) Part2\11.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV13 Revision of Pointers, Pointer Variables to Structures\6.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습%28상속, 가상함수%29 Part2\13.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV13 Revision of Pointers, Pointer Variables to Structures\7.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습%28상속, 가상함수%29 Part2\14.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV13 Revision of Pointers, Pointer Variables to Structures\8.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습%28상속, 가상함수%29 Part2\15.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV13 Revision of Pointers, Pointer Variables to Structures\9.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습(상속, 가상함수) Part2\12.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV14 Dynamic Allocation, Linked List Functions\1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습(상속, 가상함수) Part2\16.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV14 Dynamic Allocation, Linked List Functions\10.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습(상속, 가상함수) Part2\17.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV14 Dynamic Allocation, Linked List Functions\11.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습(상속, 가상함수) Part2\18.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV14 Dynamic Allocation, Linked List Functions\12.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습(상속, 가상함수) Part2\19.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV14 Dynamic Allocation, Linked List Functions\13.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습(상속, 가상함수) Part2\2.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV14 Dynamic Allocation, Linked List Functions\2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습(상속, 가상함수) Part2\3.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV14 Dynamic Allocation, Linked List Functions\3.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습(상속, 가상함수) Part2\4.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV14 Dynamic Allocation, Linked List Functions\4.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습(상속, 가상함수) Part2\5.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV14 Dynamic Allocation, Linked List Functions\5.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습(상속, 가상함수) Part2\6.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV14 Dynamic Allocation, Linked List Functions\6.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습(상속, 가상함수) Part2\7.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV14 Dynamic Allocation, Linked List Functions\7.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습(상속, 가상함수) Part2\8.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV14 Dynamic Allocation, Linked List Functions\8.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\LV10 객체지향 프로그래밍 연습(상속, 가상함수) Part2\9.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV14 Dynamic Allocation, Linked List Functions\9.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\코테실전문제(백트래킹)\괄호생성.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV14 Dynamic Allocation, Linked List Functions\main.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\코테실전문제(백트래킹)\단어검색.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV14 Dynamic Allocation, Linked List Functions\listClass.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\코테실전문제(백트래킹)\부분집합.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV14 Dynamic Allocation, Linked List Functions\listClass2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\코테실전문제(백트래킹)\순열.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV15 String\string2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="자료구조 및 기초 알고리즘\코테실전문제(백트래킹)\전화번호의문자조합.cpp">
+    <ClCompile Include="Data Structures and Basic Algorithms\LV15 String\vector.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="resource.h">
+    <ClInclude Include="Data Structures and Basic Algorithms\4. Coding Test TPreparation Problems (Linked List)\LinkedList.h">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+    </ClInclude>
+    <ClInclude Include="Data Structures and Basic Algorithms\5. Coding Test Specialised Problems (Linked List)\LinkedList.h" />
+    <ClInclude Include="Data Structures and Basic Algorithms\LV05 Direct Adressing Table, Hash Table, Spot the pattern\22Time.h">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClInclude>
-    <ClInclude Include="자료구조 및 기초 알고리즘\LV03 Direct Adressing Table, Hash Table, 패턴찾기\22Time.h">
+    <ClInclude Include="Data Structures and Basic Algorithms\LV14 Dynamic Allocation, Linked List Functions\list.h">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+    </ClInclude>
+    <ClInclude Include="Data Structures and Basic Algorithms\LV14 Dynamic Allocation, Linked List Functions\listCalss2.h">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+    </ClInclude>
+    <ClInclude Include="Data Structures and Basic Algorithms\LV14 Dynamic Allocation, Linked List Functions\listClass.h">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+    </ClInclude>
+    <ClInclude Include="resource.h">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Homework.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\01.png" />
+    <Image Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\10.png" />
+    <Image Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\11.png" />
+    <Image Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\13.png" />
+    <Image Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\15.png" />
+    <Image Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\16.png" />
+    <Image Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\17.png" />
+    <Image Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\2.png" />
+    <Image Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\3.png" />
+    <Image Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\4.png" />
+    <Image Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\5.png" />
+    <Image Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\6.png" />
+    <Image Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\7.png" />
+    <Image Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\8.png" />
+    <Image Include="Data Structures and Basic Algorithms\LV07 Facts and Misconceptions about Recursive Functions\9.png" />
+    <Image Include="Data Structures and Basic Algorithms\LV08 cstring, depth and breadth of recursive function calls\1.png" />
+    <Image Include="Data Structures and Basic Algorithms\LV08 cstring, depth and breadth of recursive function calls\10.png" />
+    <Image Include="Data Structures and Basic Algorithms\LV08 cstring, depth and breadth of recursive function calls\11.png" />
+    <Image Include="Data Structures and Basic Algorithms\LV08 cstring, depth and breadth of recursive function calls\12.png" />
+    <Image Include="Data Structures and Basic Algorithms\LV08 cstring, depth and breadth of recursive function calls\13.png" />
+    <Image Include="Data Structures and Basic Algorithms\LV08 cstring, depth and breadth of recursive function calls\14.png" />
+    <Image Include="Data Structures and Basic Algorithms\LV08 cstring, depth and breadth of recursive function calls\3.png" />
+    <Image Include="Data Structures and Basic Algorithms\LV08 cstring, depth and breadth of recursive function calls\4.png" />
+    <Image Include="Data Structures and Basic Algorithms\LV08 cstring, depth and breadth of recursive function calls\6.png" />
+    <Image Include="Data Structures and Basic Algorithms\LV08 cstring, depth and breadth of recursive function calls\7.png" />
+    <Image Include="Data Structures and Basic Algorithms\LV08 cstring, depth and breadth of recursive function calls\8.png" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
@@ -1101,7 +986,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <LanguageStandard>stdcpp20</LanguageStandard>
+      <LanguageStandard>stdcpplatest</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -1116,7 +1001,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <LanguageStandard>stdcpp20</LanguageStandard>
+      <LanguageStandard>stdcpplatest</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
