@@ -81,6 +81,88 @@ namespace ya
 			return (this != other.p);
 		}
 
+		void OddEvenLinkedList()
+		{
+			if (!head)
+				return;
+
+			for (int i = 1; i < length; ++i)
+			{
+				Node* key = head;
+				int keyData{};
+				
+				for (int j = 0; j < i; j++)
+					key = key->next;
+				keyData = key->data;
+				
+				int j = i - 1;
+				while (j >= 0)
+				{
+					Node* temp = head;
+					if (j != 0)
+					{
+						for (int k = j; k > 0; k--)
+							temp = temp->next;
+					}
+					j--;
+					if (keyData % 2 == 1)
+					{
+						if (temp->data % 2 == 0)
+						{
+							key->data = temp->data;
+							key = temp;
+						}
+						else
+						{
+							if (temp->data > keyData)
+							{
+								key->data = temp->data;
+								key = temp;
+							}
+							else
+								break;
+						}
+					}
+					else
+					{
+						if (temp->data % 2 == 1)
+							break;
+						else
+						{
+							if (temp->data > keyData)
+							{
+								key->data = temp->data;
+								key = temp;
+							}
+							else
+								break;
+						}
+					}
+				}
+
+				key->data = keyData;
+			}
+		}
+
+		iterator SerchNode(int value)
+		{
+			Node* cur = head;
+			while (cur->next != nullptr)
+			{
+				if (cur->data == value)
+					break;
+				
+				cur = cur->next;
+			}
+
+			return cur;
+		}
+
+		void IntersectVal(iterator node)
+		{
+			tail->next = node.p;
+		}
+
 	private:
 		Node* head;
 		Node* tail;
