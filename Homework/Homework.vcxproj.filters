@@ -817,6 +817,45 @@
     <ClCompile Include="Data Structures and Basic Algorithms\5. Coding Test Specialised Problems (Linked List)\OddEvenLinkedList.cpp">
       <Filter>자료구조 및 기초 알고리즘\5.코테실전문제%28링크드 리스트%29</Filter>
     </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV16 Stack, Queue\1.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV16 Stack, Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV16 Stack, Queue\2.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV16 Stack, Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV16 Stack, Queue\3.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV16 Stack, Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV16 Stack, Queue\4.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV16 Stack, Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV16 Stack, Queue\5.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV16 Stack, Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV16 Stack, Queue\6.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV16 Stack, Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV16 Stack, Queue\7.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV16 Stack, Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV16 Stack, Queue\8.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV16 Stack, Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV16 Stack, Queue\9.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV16 Stack, Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV16 Stack, Queue\10.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV16 Stack, Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV16 Stack, Queue\11.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV16 Stack, Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV16 Stack, Queue\12.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV16 Stack, Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV16 Stack, Queue\13.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV16 Stack, Queue</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="C++ 기초">
@@ -897,6 +936,9 @@
     <Filter Include="자료구조 및 기초 알고리즘\5.코테실전문제%28링크드 리스트%29">
       <UniqueIdentifier>{9c24ce2a-c6c7-4a9c-8e03-854759c07238}</UniqueIdentifier>
     </Filter>
+    <Filter Include="자료구조 및 기초 알고리즘\LV16 Stack, Queue">
+      <UniqueIdentifier>{364c480a-d4b4-4fa3-be5f-0f7edd4b7a20}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />
@@ -917,6 +959,18 @@
     </ClInclude>
     <ClInclude Include="Data Structures and Basic Algorithms\5. Coding Test Specialised Problems (Linked List)\LinkedList.h">
       <Filter>자료구조 및 기초 알고리즘\5.코테실전문제%28링크드 리스트%29</Filter>
+    </ClInclude>
+    <ClInclude Include="Data Structures and Basic Algorithms\LV16 Stack, Queue\queue.h">
+      <Filter>자료구조 및 기초 알고리즘\LV16 Stack, Queue</Filter>
+    </ClInclude>
+    <ClInclude Include="Data Structures and Basic Algorithms\LV16 Stack, Queue\vector.h">
+      <Filter>자료구조 및 기초 알고리즘\LV16 Stack, Queue</Filter>
+    </ClInclude>
+    <ClInclude Include="Data Structures and Basic Algorithms\LV16 Stack, Queue\stack.h">
+      <Filter>자료구조 및 기초 알고리즘\LV16 Stack, Queue</Filter>
+    </ClInclude>
+    <ClInclude Include="Data Structures and Basic Algorithms\LV16 Stack, Queue\queue_array.h">
+      <Filter>자료구조 및 기초 알고리즘\LV16 Stack, Queue</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
