@@ -901,6 +901,24 @@
     <ClCompile Include="Data Structures and Basic Algorithms\LV17 Grap\1.cpp">
       <Filter>자료구조 및 기초 알고리즘\LV17 Grap</Filter>
     </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\6. Coding Test Prep String\ReverseInteger.cpp">
+      <Filter>자료구조 및 기초 알고리즘\6.코테준비문제%28string%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\6. Coding Test Prep String\ReverseString.cpp">
+      <Filter>자료구조 및 기초 알고리즘\6.코테준비문제%28string%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\6. Coding Test Prep String\LongestCommonPrefix.cpp">
+      <Filter>자료구조 및 기초 알고리즘\6.코테준비문제%28string%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\6. Coding Test Prep String\FirstUnuqueCharacterinaString.cpp">
+      <Filter>자료구조 및 기초 알고리즘\6.코테준비문제%28string%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\6. Coding Test Prep String\ValidAnagram.cpp">
+      <Filter>자료구조 및 기초 알고리즘\6.코테준비문제%28string%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\6. Coding Test Prep String\ValidPalindrome.cpp">
+      <Filter>자료구조 및 기초 알고리즘\6.코테준비문제%28string%29</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="C++ 기초">
@@ -986,6 +1004,9 @@
     </Filter>
     <Filter Include="자료구조 및 기초 알고리즘\LV17 Grap">
       <UniqueIdentifier>{3ddbef68-9fbd-477a-96f1-8981cfafac4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="자료구조 및 기초 알고리즘\6.코테준비문제%28string%29">
+      <UniqueIdentifier>{be961667-ef2c-4054-a6c6-f38420163928}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
