@@ -919,6 +919,42 @@
     <ClCompile Include="Data Structures and Basic Algorithms\6. Coding Test Prep String\ValidPalindrome.cpp">
       <Filter>자료구조 및 기초 알고리즘\6.코테준비문제%28string%29</Filter>
     </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\6. Coding Test Prep String\MyAtoi.cpp">
+      <Filter>자료구조 및 기초 알고리즘\6.코테준비문제%28string%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\6. Coding Test Prep String\StrStr.cpp">
+      <Filter>자료구조 및 기초 알고리즘\6.코테준비문제%28string%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\7. Coding Test Prep Arrays\RemoveDuplicatesFromSortedArray.cpp">
+      <Filter>자료구조 및 기초 알고리즘\7.코테준비문제%28배열%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\7. Coding Test Prep Arrays\RotationArray.cpp">
+      <Filter>자료구조 및 기초 알고리즘\7.코테준비문제%28배열%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\7. Coding Test Prep Arrays\BestTimeToBuyAndSellStock2.cpp">
+      <Filter>자료구조 및 기초 알고리즘\7.코테준비문제%28배열%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\7. Coding Test Prep Arrays\RotateImageSolution.cpp">
+      <Filter>자료구조 및 기초 알고리즘\7.코테준비문제%28배열%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\7. Coding Test Prep Arrays\SingleNumber.cpp">
+      <Filter>자료구조 및 기초 알고리즘\7.코테준비문제%28배열%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\7. Coding Test Prep Arrays\IntersectionOfTwoArrays2.cpp">
+      <Filter>자료구조 및 기초 알고리즘\7.코테준비문제%28배열%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\7. Coding Test Prep Arrays\PlusOne.cpp">
+      <Filter>자료구조 및 기초 알고리즘\7.코테준비문제%28배열%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\7. Coding Test Prep Arrays\MoveZeroes.cpp">
+      <Filter>자료구조 및 기초 알고리즘\7.코테준비문제%28배열%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\7. Coding Test Prep Arrays\TwoSum.cpp">
+      <Filter>자료구조 및 기초 알고리즘\7.코테준비문제%28배열%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\7. Coding Test Prep Arrays\ValidSudoku.cpp">
+      <Filter>자료구조 및 기초 알고리즘\7.코테준비문제%28배열%29</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="C++ 기초">
@@ -1007,6 +1043,9 @@
     </Filter>
     <Filter Include="자료구조 및 기초 알고리즘\6.코테준비문제%28string%29">
       <UniqueIdentifier>{be961667-ef2c-4054-a6c6-f38420163928}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="자료구조 및 기초 알고리즘\7.코테준비문제%28배열%29">
+      <UniqueIdentifier>{cce8712b-d99a-4fd4-820c-f0f869af1eb7}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
