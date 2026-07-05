@@ -47,6 +47,12 @@
     <Filter Include="LV19 Graph, Tree">
       <UniqueIdentifier>{acc812ba-37df-4be2-a161-48ef6cd59d67}</UniqueIdentifier>
     </Filter>
+    <Filter Include="LV20 Tree/Graph DFS Traversal">
+      <UniqueIdentifier>{5b9a3853-cf39-4a07-9606-720953f76a46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LV21 TreeGraph BFS Traversal">
+      <UniqueIdentifier>{af090841-515f-486b-bcb6-043e138ae150}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include="클래스와구조체차이.md" />
@@ -297,6 +303,30 @@
     </ClCompile>
     <ClCompile Include="queue_list.cpp">
       <Filter>LV18 Stack, Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="LV20 Tree,Graph DFS Traversal\1.cpp">
+      <Filter>LV20 Tree/Graph DFS Traversal</Filter>
+    </ClCompile>
+    <ClCompile Include="LV20 Tree,Graph DFS Traversal\２.cpp">
+      <Filter>LV20 Tree/Graph DFS Traversal</Filter>
+    </ClCompile>
+    <ClCompile Include="LV20 Tree,Graph DFS Traversal\3.cpp">
+      <Filter>LV20 Tree/Graph DFS Traversal</Filter>
+    </ClCompile>
+    <ClCompile Include="LV20 Tree,Graph DFS Traversal\4.cpp">
+      <Filter>LV20 Tree/Graph DFS Traversal</Filter>
+    </ClCompile>
+    <ClCompile Include="LV21 Tree,Graph BFS Traversal\1.cpp">
+      <Filter>LV21 TreeGraph BFS Traversal</Filter>
+    </ClCompile>
+    <ClCompile Include="LV21 Tree,Graph BFS Traversal\2.cpp">
+      <Filter>LV21 TreeGraph BFS Traversal</Filter>
+    </ClCompile>
+    <ClCompile Include="LV21 Tree,Graph BFS Traversal\3.cpp">
+      <Filter>LV21 TreeGraph BFS Traversal</Filter>
+    </ClCompile>
+    <ClCompile Include="LV21 Tree,Graph BFS Traversal\4.cpp">
+      <Filter>LV21 TreeGraph BFS Traversal</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -955,6 +955,99 @@
     <ClCompile Include="Data Structures and Basic Algorithms\7. Coding Test Prep Arrays\ValidSudoku.cpp">
       <Filter>자료구조 및 기초 알고리즘\7.코테준비문제%28배열%29</Filter>
     </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV18 DFS\14.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV18 DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV18 DFS\1.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV18 DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV18 DFS\2.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV18 DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV18 DFS\3.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV18 DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV18 DFS\4.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV18 DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV18 DFS\5.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV18 DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV18 DFS\6.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV18 DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV18 DFS\7.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV18 DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV18 DFS\8.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV18 DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV18 DFS\9.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV18 DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV18 DFS\10.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV18 DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV18 DFS\11.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV18 DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV18 DFS\12.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV18 DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV18 DFS\13.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV18 DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV19 BFS\1.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV19 BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV19 BFS\2.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV19 BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV19 BFS\3.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV19 BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV19 BFS\4.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV19 BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV19 BFS\5.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV19 BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV19 BFS\6.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV19 BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV19 BFS\7.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV19 BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV19 BFS\8.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV19 BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV19 BFS\9.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV19 BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV19 BFS\10.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV19 BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV19 BFS\11.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV19 BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV19 BFS\12.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV19 BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV19 BFS\13.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV19 BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV19 BFS\14.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV19 BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV19 BFS\15.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV19 BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV19 BFS\16.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV19 BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV19 BFS\17.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV19 BFS</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="C++ 기초">
@@ -1046,6 +1139,12 @@
     </Filter>
     <Filter Include="자료구조 및 기초 알고리즘\7.코테준비문제%28배열%29">
       <UniqueIdentifier>{cce8712b-d99a-4fd4-820c-f0f869af1eb7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="자료구조 및 기초 알고리즘\LV18 DFS">
+      <UniqueIdentifier>{ceac3ce2-3a9a-47ff-a94b-27e78e2ebc05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="자료구조 및 기초 알고리즘\LV19 BFS">
+      <UniqueIdentifier>{e5779544-df0f-46ce-a82f-8e3d5120e1db}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
