@@ -181,6 +181,13 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\8. Coding Test Arrays, Strings\3SumSolution.cpp" />
+    <ClCompile Include="Data Structures and Basic Algorithms\8. Coding Test Arrays, Strings\GroupAnagramsSolution.cpp" />
+    <ClCompile Include="Data Structures and Basic Algorithms\8. Coding Test Arrays, Strings\LongestSubstringWithoutRepeationgCharatersSolution.cpp" />
+    <ClCompile Include="Data Structures and Basic Algorithms\8. Coding Test Arrays, Strings\SetMatrixSolution.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="Data Structures and Basic Algorithms\LV00 Object-Oriented Programming Exercises\1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>

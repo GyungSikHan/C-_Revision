@@ -1048,6 +1048,14 @@
     <ClCompile Include="Data Structures and Basic Algorithms\LV19 BFS\17.cpp">
       <Filter>자료구조 및 기초 알고리즘\LV19 BFS</Filter>
     </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\8. Coding Test Arrays, Strings\3SumSolution.cpp">
+      <Filter>자료구조 및 기초 알고리즘\8.코테실전문제%28Array/Strings%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\8. Coding Test Arrays, Strings\SetMatrixSolution.cpp">
+      <Filter>자료구조 및 기초 알고리즘\8.코테실전문제%28Array/Strings%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\8. Coding Test Arrays, Strings\GroupAnagramsSolution.cpp" />
+    <ClCompile Include="Data Structures and Basic Algorithms\8. Coding Test Arrays, Strings\LongestSubstringWithoutRepeationgCharatersSolution.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="C++ 기초">
@@ -1145,6 +1153,9 @@
     </Filter>
     <Filter Include="자료구조 및 기초 알고리즘\LV19 BFS">
       <UniqueIdentifier>{e5779544-df0f-46ce-a82f-8e3d5120e1db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="자료구조 및 기초 알고리즘\8.코테실전문제%28Array/Strings%29">
+      <UniqueIdentifier>{52092295-d67a-4448-ac30-e924ec423dd4}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
