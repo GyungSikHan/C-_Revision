@@ -1003,9 +1003,6 @@
     <ClCompile Include="Data Structures and Basic Algorithms\LV19 BFS\2.cpp">
       <Filter>자료구조 및 기초 알고리즘\LV19 BFS</Filter>
     </ClCompile>
-    <ClCompile Include="Data Structures and Basic Algorithms\LV19 BFS\3.cpp">
-      <Filter>자료구조 및 기초 알고리즘\LV19 BFS</Filter>
-    </ClCompile>
     <ClCompile Include="Data Structures and Basic Algorithms\LV19 BFS\4.cpp">
       <Filter>자료구조 및 기초 알고리즘\LV19 BFS</Filter>
     </ClCompile>
@@ -1054,8 +1051,72 @@
     <ClCompile Include="Data Structures and Basic Algorithms\8. Coding Test Arrays, Strings\SetMatrixSolution.cpp">
       <Filter>자료구조 및 기초 알고리즘\8.코테실전문제%28Array/Strings%29</Filter>
     </ClCompile>
-    <ClCompile Include="Data Structures and Basic Algorithms\8. Coding Test Arrays, Strings\GroupAnagramsSolution.cpp" />
     <ClCompile Include="Data Structures and Basic Algorithms\8. Coding Test Arrays, Strings\LongestSubstringWithoutRepeationgCharatersSolution.cpp" />
+    <ClCompile Include="Data Structures and Basic Algorithms\8. Coding Test Arrays, Strings\GroupAnagramsSolution.cpp">
+      <Filter>자료구조 및 기초 알고리즘\8.코테실전문제%28Array/Strings%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\8. Coding Test Arrays, Strings\MissingRangesSolution.cpp" />
+    <ClCompile Include="Data Structures and Basic Algorithms\8. Coding Test Arrays, Strings\CountAndSaySolution.cpp" />
+    <ClCompile Include="Data Structures and Basic Algorithms\8. Coding Test Arrays, Strings\IncreasingTripletSubsequenceSolution.cpp" />
+    <ClCompile Include="Data Structures and Basic Algorithms\8. Coding Test Arrays, Strings\LongestPalindromicSubstringSolutioncpp.cpp" />
+    <ClCompile Include="Data Structures and Basic Algorithms\LV19 BFS\3.cpp" />
+    <ClCompile Include="Data Structures and Basic Algorithms\LV20 DFS, BFS Path Search, Min Travel Cost\1.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV20 DFS/BFS 경로 탐색, 최소 여행비용</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV20 DFS, BFS Path Search, Min Travel Cost\2.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV20 DFS/BFS 경로 탐색, 최소 여행비용</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV20 DFS, BFS Path Search, Min Travel Cost\3.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV20 DFS/BFS 경로 탐색, 최소 여행비용</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV20 DFS, BFS Path Search, Min Travel Cost\4.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV20 DFS/BFS 경로 탐색, 최소 여행비용</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV20 DFS, BFS Path Search, Min Travel Cost\6.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV20 DFS/BFS 경로 탐색, 최소 여행비용</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV20 DFS, BFS Path Search, Min Travel Cost\7.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV20 DFS/BFS 경로 탐색, 최소 여행비용</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV20 DFS, BFS Path Search, Min Travel Cost\8.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV20 DFS/BFS 경로 탐색, 최소 여행비용</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV20 DFS, BFS Path Search, Min Travel Cost\9.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV20 DFS/BFS 경로 탐색, 최소 여행비용</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV20 DFS, BFS Path Search, Min Travel Cost\10.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV20 DFS/BFS 경로 탐색, 최소 여행비용</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV20 DFS, BFS Path Search, Min Travel Cost\11.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV20 DFS/BFS 경로 탐색, 최소 여행비용</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV20 DFS, BFS Path Search, Min Travel Cost\12.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV20 DFS/BFS 경로 탐색, 최소 여행비용</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV20 DFS, BFS Path Search, Min Travel Cost\13.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV20 DFS/BFS 경로 탐색, 최소 여행비용</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV20 DFS, BFS Path Search, Min Travel Cost\14.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV20 DFS/BFS 경로 탐색, 최소 여행비용</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV20 DFS, BFS Path Search, Min Travel Cost\15.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV20 DFS/BFS 경로 탐색, 최소 여행비용</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV20 DFS, BFS Path Search, Min Travel Cost\16.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV20 DFS/BFS 경로 탐색, 최소 여행비용</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV20 DFS, BFS Path Search, Min Travel Cost\17.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV20 DFS/BFS 경로 탐색, 최소 여행비용</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV20 DFS, BFS Path Search, Min Travel Cost\18.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV20 DFS/BFS 경로 탐색, 최소 여행비용</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV20 DFS, BFS Path Search, Min Travel Cost\19.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV20 DFS/BFS 경로 탐색, 최소 여행비용</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\LV20 DFS, BFS Path Search, Min Travel Cost\20.cpp">
+      <Filter>자료구조 및 기초 알고리즘\LV20 DFS/BFS 경로 탐색, 최소 여행비용</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="C++ 기초">
@@ -1156,6 +1217,9 @@
     </Filter>
     <Filter Include="자료구조 및 기초 알고리즘\8.코테실전문제%28Array/Strings%29">
       <UniqueIdentifier>{52092295-d67a-4448-ac30-e924ec423dd4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="자료구조 및 기초 알고리즘\LV20 DFS/BFS 경로 탐색, 최소 여행비용">
+      <UniqueIdentifier>{2ef0d214-82c4-4ecc-a511-cfb1bce35a26}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>

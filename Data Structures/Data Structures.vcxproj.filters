@@ -53,6 +53,9 @@
     <Filter Include="LV21 TreeGraph BFS Traversal">
       <UniqueIdentifier>{af090841-515f-486b-bcb6-043e138ae150}</UniqueIdentifier>
     </Filter>
+    <Filter Include="LV22 DFS/BFS 경로 탐색, 최소 여행비용">
+      <UniqueIdentifier>{47bdfd73-cd9b-487a-93a9-aed1a860bb32}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include="클래스와구조체차이.md" />
@@ -327,6 +330,21 @@
     </ClCompile>
     <ClCompile Include="LV21 Tree,Graph BFS Traversal\4.cpp">
       <Filter>LV21 TreeGraph BFS Traversal</Filter>
+    </ClCompile>
+    <ClCompile Include="LV22 DFS, BFS Path Search, Min Travel Cost\1.cpp">
+      <Filter>LV22 DFS/BFS 경로 탐색, 최소 여행비용</Filter>
+    </ClCompile>
+    <ClCompile Include="LV22 DFS, BFS Path Search, Min Travel Cost\2.cpp">
+      <Filter>LV22 DFS/BFS 경로 탐색, 최소 여행비용</Filter>
+    </ClCompile>
+    <ClCompile Include="LV22 DFS, BFS Path Search, Min Travel Cost\3.cpp">
+      <Filter>LV22 DFS/BFS 경로 탐색, 최소 여행비용</Filter>
+    </ClCompile>
+    <ClCompile Include="LV22 DFS, BFS Path Search, Min Travel Cost\5.cpp">
+      <Filter>LV22 DFS/BFS 경로 탐색, 최소 여행비용</Filter>
+    </ClCompile>
+    <ClCompile Include="LV22 DFS, BFS Path Search, Min Travel Cost\4.cpp">
+      <Filter>LV22 DFS/BFS 경로 탐색, 최소 여행비용</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
