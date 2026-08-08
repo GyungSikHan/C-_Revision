@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="02.STL Summary">
+      <UniqueIdentifier>{65f37000-102e-4aeb-ba98-50e7309cf029}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.시간 복잡도/공간 복잡도">
+      <UniqueIdentifier>{b0e69215-4752-42eb-ac97-077d4e8ab325}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="02.STL Summary\1.cpp">
+      <Filter>02.STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="02.STL Summary\2.cpp">
+      <Filter>02.STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="02.STL Summary\3.cpp">
+      <Filter>02.STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="02.STL Summary\4.cpp">
+      <Filter>02.STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="02.STL Summary\5.cpp">
+      <Filter>02.STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="01 Time,Sapce Complexity\01.TimeCheck.cpp">
+      <Filter>01.시간 복잡도/공간 복잡도</Filter>
+    </ClCompile>
+    <ClCompile Include="01 Time,Sapce Complexity\02.Padding.cpp">
+      <Filter>01.시간 복잡도/공간 복잡도</Filter>
+    </ClCompile>
+    <ClCompile Include="01 Time,Sapce Complexity\3.cpp">
+      <Filter>01.시간 복잡도/공간 복잡도</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

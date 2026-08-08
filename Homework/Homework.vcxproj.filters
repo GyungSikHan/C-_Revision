@@ -1117,6 +1117,33 @@
     <ClCompile Include="Data Structures and Basic Algorithms\LV20 DFS, BFS Path Search, Min Travel Cost\20.cpp">
       <Filter>자료구조 및 기초 알고리즘\LV20 DFS/BFS 경로 탐색, 최소 여행비용</Filter>
     </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\01 Time,Sapce Complexity\2.cpp">
+      <Filter>고급알고리즘\01 Time,Sapce Complexity</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\01 Time,Sapce Complexity\1.cpp">
+      <Filter>고급알고리즘\01 Time,Sapce Complexity</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\01 Time,Sapce Complexity\3.cpp">
+      <Filter>고급알고리즘\01 Time,Sapce Complexity</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\01 Time,Sapce Complexity\4.cpp">
+      <Filter>고급알고리즘\01 Time,Sapce Complexity</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\01 Time,Sapce Complexity\5.cpp">
+      <Filter>고급알고리즘\01 Time,Sapce Complexity</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\01 Time,Sapce Complexity\6.cpp">
+      <Filter>고급알고리즘\01 Time,Sapce Complexity</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\01 Time,Sapce Complexity\7.cpp">
+      <Filter>고급알고리즘\01 Time,Sapce Complexity</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\01 Time,Sapce Complexity\8.cpp">
+      <Filter>고급알고리즘\01 Time,Sapce Complexity</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\01 Time,Sapce Complexity\9.cpp">
+      <Filter>고급알고리즘\01 Time,Sapce Complexity</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="C++ 기초">
@@ -1220,6 +1247,12 @@
     </Filter>
     <Filter Include="자료구조 및 기초 알고리즘\LV20 DFS/BFS 경로 탐색, 최소 여행비용">
       <UniqueIdentifier>{2ef0d214-82c4-4ecc-a511-cfb1bce35a26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="고급알고리즘">
+      <UniqueIdentifier>{a6e85c46-6cf9-458e-8d9f-f6bc4171cf43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="고급알고리즘\01 Time,Sapce Complexity">
+      <UniqueIdentifier>{a2aa65c9-96d2-470e-93f6-dec8937950a7}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
