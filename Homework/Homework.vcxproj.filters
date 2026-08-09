@@ -1144,6 +1144,75 @@
     <ClCompile Include="AdvancedAlgorithmes\01 Time,Sapce Complexity\9.cpp">
       <Filter>고급알고리즘\01 Time,Sapce Complexity</Filter>
     </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\1.cpp">
+      <Filter>고급알고리즘\02 STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\2.cpp">
+      <Filter>고급알고리즘\02 STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\3.cpp">
+      <Filter>고급알고리즘\02 STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\4.cpp">
+      <Filter>고급알고리즘\02 STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\5.cpp">
+      <Filter>고급알고리즘\02 STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\6.cpp">
+      <Filter>고급알고리즘\02 STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\7.cpp">
+      <Filter>고급알고리즘\02 STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\8.cpp">
+      <Filter>고급알고리즘\02 STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\9.cpp">
+      <Filter>고급알고리즘\02 STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\10.cpp">
+      <Filter>고급알고리즘\02 STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\11.cpp">
+      <Filter>고급알고리즘\02 STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\12.cpp">
+      <Filter>고급알고리즘\02 STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\13.cpp">
+      <Filter>고급알고리즘\02 STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\14.cpp">
+      <Filter>고급알고리즘\02 STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\15.cpp">
+      <Filter>고급알고리즘\02 STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\16.cpp">
+      <Filter>고급알고리즘\02 STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\17.cpp">
+      <Filter>고급알고리즘\02 STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\9. Coding Test Prep- Design\ShuffleAnArray.cpp">
+      <Filter>자료구조 및 기초 알고리즘\9.코딩테스트 준비문제 %28설계%29 %28Coding Test Prep- Design%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\9. Coding Test Prep- Design\MinStack.cpp">
+      <Filter>자료구조 및 기초 알고리즘\9.코딩테스트 준비문제 %28설계%29 %28Coding Test Prep- Design%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\10. Coding Test- Design\Flatten2DVector.cpp">
+      <Filter>자료구조 및 기초 알고리즘\10.코딩테스트 실전 문제 %28설계%29 %28Coding Test- Design%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\10. Coding Test- Design\DesignTicTacToe.cpp">
+      <Filter>자료구조 및 기초 알고리즘\10.코딩테스트 실전 문제 %28설계%29 %28Coding Test- Design%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\10. Coding Test- Design\SerializeAndDeserializeBinaryTree.cpp">
+      <Filter>자료구조 및 기초 알고리즘\10.코딩테스트 실전 문제 %28설계%29 %28Coding Test- Design%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Data Structures and Basic Algorithms\10. Coding Test- Design\InsertDeleteGetRandom.cpp">
+      <Filter>자료구조 및 기초 알고리즘\10.코딩테스트 실전 문제 %28설계%29 %28Coding Test- Design%29</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="C++ 기초">
@@ -1253,6 +1322,15 @@
     </Filter>
     <Filter Include="고급알고리즘\01 Time,Sapce Complexity">
       <UniqueIdentifier>{a2aa65c9-96d2-470e-93f6-dec8937950a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="고급알고리즘\02 STL Summary">
+      <UniqueIdentifier>{600ff05f-52a2-48be-ab15-2e170123682f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="자료구조 및 기초 알고리즘\9.코딩테스트 준비문제 %28설계%29 %28Coding Test Prep- Design%29">
+      <UniqueIdentifier>{b2cf97e7-0730-4b76-afaf-6467f73f2901}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="자료구조 및 기초 알고리즘\10.코딩테스트 실전 문제 %28설계%29 %28Coding Test- Design%29">
+      <UniqueIdentifier>{1dc38909-138b-4bd3-9806-2370a88f158d}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
