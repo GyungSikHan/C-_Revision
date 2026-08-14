@@ -7,6 +7,12 @@
     <Filter Include="01.시간 복잡도/공간 복잡도">
       <UniqueIdentifier>{b0e69215-4752-42eb-ac97-077d4e8ab325}</UniqueIdentifier>
     </Filter>
+    <Filter Include="03.Bst,UnionFind">
+      <UniqueIdentifier>{9d80d416-d49e-4c9c-86ec-7b7438b7d00a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04.MinMaxHeap,BinarySearch">
+      <UniqueIdentifier>{64b77a94-0076-4326-883c-190a683702ed}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="02.STL Summary\1.cpp">
@@ -32,6 +38,27 @@
     </ClCompile>
     <ClCompile Include="01 Time,Sapce Complexity\3.cpp">
       <Filter>01.시간 복잡도/공간 복잡도</Filter>
+    </ClCompile>
+    <ClCompile Include="03.Bst,UnionFind\1.cpp">
+      <Filter>03.Bst,UnionFind</Filter>
+    </ClCompile>
+    <ClCompile Include="03.Bst,UnionFind\2.cpp">
+      <Filter>03.Bst,UnionFind</Filter>
+    </ClCompile>
+    <ClCompile Include="03.Bst,UnionFind\3.cpp">
+      <Filter>03.Bst,UnionFind</Filter>
+    </ClCompile>
+    <ClCompile Include="03.Bst,UnionFind\4.cpp">
+      <Filter>03.Bst,UnionFind</Filter>
+    </ClCompile>
+    <ClCompile Include="04.MinMaxHeap,BinarySearch\1.cpp">
+      <Filter>04.MinMaxHeap,BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="04.MinMaxHeap,BinarySearch\2.cpp">
+      <Filter>04.MinMaxHeap,BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="04.MinMaxHeap,BinarySearch\3.cpp">
+      <Filter>04.MinMaxHeap,BinarySearch</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
