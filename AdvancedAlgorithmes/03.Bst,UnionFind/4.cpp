@@ -1,38 +1,45 @@
-﻿//Union Find2
-#include <iostream>
+#include<iostream>
 
-using namespace std;
+int name[256]{};
+int n{};
+int group[256]{};
+int gCnt{};
 
-char parent[1000];
-
-char getParent(char x)
+void insert(char a, char b)
 {
-	if (parent[x] == 0)
-		return x;
-
-	int ret = getParent(parent[x]);
-	parent[x] = ret;
-
-	return ret;
-}
-
-void BindGroup(char ch1, char ch2)
-{
-	int a = getParent(ch1);
-	int b = getParent(ch2);
-
-	if (a != b)
-		parent[b] = a;
+    if(group[a] == 0)
+        name[n++] = a;
+    if(group[b] == 0)
+        name[n++] = b;
+    
+    if(group[a] != 0 && group[b] == 0)
+        group[b] = group[a];
+    else if(group[a] == 0 && group[b] != 0)
+        group[a] = group[b];
+    else if(group[a] == 0 && group[b] == 0)
+    {
+        gCnt++;
+        group[a] = gCnt;
+        group[b] = gCnt;
+    }    
+    else
+    {
+        int g = group[b];
+        for (size_t i = 0; i < n; i++)
+        {
+            if(group[name[i]] == g)
+                group[name[i]] = group[a];
+        }
+    }
 }
 
 int main()
 {
-	BindGroup('A', 'C');
-	BindGroup('C', 'D');
+    insert('A','B');
+    insert('A','C');
 
-	BindGroup('A', 'G');
-	BindGroup('H', 'C');
-	BindGroup('A', 'H');
-	BindGroup('F', 'D');
-	BindGroup('A', 'F');
+    insert('E','Q');
+    insert('E','F');
+
+    insert('F','A');
 }

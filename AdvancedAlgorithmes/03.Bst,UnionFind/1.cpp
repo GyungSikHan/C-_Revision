@@ -1,95 +1,36 @@
-﻿#include <iostream>
-#include <queue>
-#include <vector>
+#include<iostream>
+#include<vector>
+#include<list>
+#include<string>
+#include<algorithm>
+#include<map>
 
-using namespace std;
+int bst[256]{};
 
-struct Node
+void insert(int data)
 {
-	int data;
-	Node* left;
-	Node* right;
-};
-vector<int> v{ 7,3,8,10,1,5 };
-Node* tree;
-
-void DFS(int level)
-{
-	if (level == v.size())
-		return;
-
-	Node* curr = tree;
-	bool b{};
-	while (true)
-	{
-		if (curr->data < v[level])
-		{
-			if (curr->right == nullptr)
-			{
-				b = false;
-				break;
-			}
-			curr = curr->right;
-		}
-		else
-		{
-			if (curr->left == nullptr)
-			{
-				b = true;
-				break;
-			}
-			curr = curr->left;
-		}
-	}
-
-	if (b == false)
-	{
-		curr->right = new Node;
-		curr = curr->right;
-	}
-	else
-	{
-		curr->left = new Node;
-		curr = curr->left;
-	}
-
-	curr->data = v[level];
-	curr->left = nullptr;
-	curr->right = nullptr;
-
-	DFS(level + 1);
-}
-
-int Serch(int val)
-{
-	int idx{};
-	Node* curr = tree;
-	while (curr != nullptr)
-	{
-		if (curr->data < val)
-			curr = curr->right;
-		else if (curr->data > val)
-			curr = curr->left;
-		else
-			return idx;
-		idx++;
-	}
-
-	return -1;
+    int idx = 1;
+    while (true)
+    {
+        if(bst[idx]==0)
+        {
+            bst[idx] = data;
+            break;
+        }
+        else if(bst[idx] > data)
+            idx *= 2;
+        else
+            idx = idx*2+1;    
+    }   
 }
 
 int main()
 {
-	tree = new Node;
-	tree->data = v[0];
-	tree->left = nullptr;
-	tree->right = nullptr;
-
-	DFS(1);
-
-	int idx = Serch(20);
-	if (idx != -1)
-		cout << idx << "번째" << endl;
-	else
-		cout << "없음" << endl;
+    insert(10);
+    insert(5);
+    insert(15);
+    insert(8);
+    insert(3);
+    insert(7);
+    insert(12);
 }

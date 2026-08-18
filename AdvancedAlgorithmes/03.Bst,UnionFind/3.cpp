@@ -1,47 +1,96 @@
-﻿//Union Find
-#include <iostream>
-using namespace std;
+#include<iostream>
+#include<vector>
+#include<list>
+#include<string>
+#include<algorithm>
+#include<map>
 
-int name[256]{};
-int n{};
-int group[256]{};
-int gCnt{};
+int bst[256]{};
 
-void insert(char ch1, char ch2)
+void insert(int data)
 {
-	if (group[ch1] == 0)
-		name[n++] = ch1;
-	if (group[ch2] == 0)
-		name[n++] = ch2;
+    int idx = 1;
+    while (true)
+    {
+        if(bst[idx]==0)
+        {
+            bst[idx] = data;
+            break;
+        }
+        else if(bst[idx] > data)
+            idx *= 2;
+        else
+            idx = idx*2+1;    
+    }   
+}
 
-	if (group[ch1] != 0 && group[ch2] == 0)
-		group[ch2] = group[ch1];
-	else if (group[ch1] == 0 && group[ch2] != 0)
-		group[ch1] = group[ch2];
-	else if (group[ch1] == 0 && group[ch2] == 0)
-	{
-		gCnt++;
-		group[ch1] = gCnt;
-		group[ch2] = gCnt;
-	}
-	else
-	{
-		int g = group[ch2];
-		for (int i = 0; i < n; ++i)
-		{
-			if (group[name[i]] == g)
-				group[name[i]] = group[ch1];
-		}
-	}
+void insertRescursive(int data, int now)
+{
+    if(bst[now] == 0)
+    {
+        bst[now] = data;
+        return;
+    }
+    if(bst[now] > data)
+        insertRescursive(data, now*2);
+    else
+        insertRescursive(data, now*2+1);
+}
+
+void search(int data)
+{
+    int idx = 1;
+    while (true)
+    {
+        if(bst[idx] == 0)
+        {
+            std::cout<<"Not Found\n";
+            break;
+        }
+        if(bst[idx] == data)
+        {
+            std::cout<<"Found\n";
+            break;
+        }
+        if(bst[idx] > data)
+            idx = idx*2;
+        else
+            idx = idx*2+1;
+    }    
+}
+
+void searchRecursive(int data, int now)
+{
+    if(bst[now] == 0)
+    {
+        std::cout<<"Not Found\n";
+        return;
+    }
+    if(bst[now] == data)
+    {
+        std::cout<<"Found\n";
+        return;
+    }
+    if(bst[now] > data)
+        searchRecursive(data,now*2);
+    else
+        searchRecursive(data,now*2+1);
 }
 
 int main()
 {
-	insert('A', 'B');
-	insert('A', 'C');
+    // insert(10);
+    // insert(5);
+    // insert(15);
+    // insert(8);
+    // insert(3);
+    // insert(7);
+    // insert(12);
 
-	insert('E', 'Q');
-	insert('E', 'F');
-
-	insert('F', 'A');
+    insertRescursive(3, 1);
+    insertRescursive(5, 1);
+    insertRescursive(1, 1);
+    insertRescursive(2, 1);
+    insertRescursive(4, 1);
+    insertRescursive(7, 1);
 }
