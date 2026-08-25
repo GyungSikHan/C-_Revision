@@ -7,11 +7,23 @@
     <Filter Include="01.시간 복잡도/공간 복잡도">
       <UniqueIdentifier>{b0e69215-4752-42eb-ac97-077d4e8ab325}</UniqueIdentifier>
     </Filter>
-    <Filter Include="03.Bst,UnionFind">
-      <UniqueIdentifier>{9d80d416-d49e-4c9c-86ec-7b7438b7d00a}</UniqueIdentifier>
-    </Filter>
     <Filter Include="04.MinMaxHeap,BinarySearch">
       <UniqueIdentifier>{64b77a94-0076-4326-883c-190a683702ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.DFS Paths">
+      <UniqueIdentifier>{42b6ca99-6f6b-429c-b3b9-6669410db633}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="06.Permutations, DFS Paths, Weighted Graph">
+      <UniqueIdentifier>{4d6c5b12-aecb-4b66-842b-cd1a3dd0fd77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="07.MST,Kruskal">
+      <UniqueIdentifier>{8b71c94a-b8cd-42b4-9223-5a1e14e17773}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="08.BruteForce,Backtracking,FloodFill">
+      <UniqueIdentifier>{07b41839-6070-46d7-b4ec-48bbc57bc793}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.BinarySearchTree,UnionFind">
+      <UniqueIdentifier>{9d80d416-d49e-4c9c-86ec-7b7438b7d00a}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -39,18 +51,6 @@
     <ClCompile Include="01 Time,Sapce Complexity\3.cpp">
       <Filter>01.시간 복잡도/공간 복잡도</Filter>
     </ClCompile>
-    <ClCompile Include="03.Bst,UnionFind\1.cpp">
-      <Filter>03.Bst,UnionFind</Filter>
-    </ClCompile>
-    <ClCompile Include="03.Bst,UnionFind\2.cpp">
-      <Filter>03.Bst,UnionFind</Filter>
-    </ClCompile>
-    <ClCompile Include="03.Bst,UnionFind\3.cpp">
-      <Filter>03.Bst,UnionFind</Filter>
-    </ClCompile>
-    <ClCompile Include="03.Bst,UnionFind\4.cpp">
-      <Filter>03.Bst,UnionFind</Filter>
-    </ClCompile>
     <ClCompile Include="04.MinMaxHeap,BinarySearch\1.cpp">
       <Filter>04.MinMaxHeap,BinarySearch</Filter>
     </ClCompile>
@@ -58,6 +58,72 @@
       <Filter>04.MinMaxHeap,BinarySearch</Filter>
     </ClCompile>
     <ClCompile Include="04.MinMaxHeap,BinarySearch\3.cpp">
+      <Filter>04.MinMaxHeap,BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="05.DFS Paths\3.cpp">
+      <Filter>05.DFS Paths</Filter>
+    </ClCompile>
+    <ClCompile Include="05.DFS Paths\4.cpp">
+      <Filter>05.DFS Paths</Filter>
+    </ClCompile>
+    <ClCompile Include="05.DFS Paths\1.cpp">
+      <Filter>05.DFS Paths</Filter>
+    </ClCompile>
+    <ClCompile Include="05.DFS Paths\2.cpp">
+      <Filter>05.DFS Paths</Filter>
+    </ClCompile>
+    <ClCompile Include="06.Permutations, DFS Paths, Weighted Graph\1.cpp">
+      <Filter>06.Permutations, DFS Paths, Weighted Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="06.Permutations, DFS Paths, Weighted Graph\2.cpp">
+      <Filter>06.Permutations, DFS Paths, Weighted Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="06.Permutations, DFS Paths, Weighted Graph\3.cpp">
+      <Filter>06.Permutations, DFS Paths, Weighted Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="07.MST,kruskal\1.cpp">
+      <Filter>07.MST,Kruskal</Filter>
+    </ClCompile>
+    <ClCompile Include="07.MST,kruskal\2.cpp">
+      <Filter>07.MST,Kruskal</Filter>
+    </ClCompile>
+    <ClCompile Include="08.BruteForce,Backtracking,FloodFill\1.cpp">
+      <Filter>08.BruteForce,Backtracking,FloodFill</Filter>
+    </ClCompile>
+    <ClCompile Include="08.BruteForce,Backtracking,FloodFill\2.cpp">
+      <Filter>08.BruteForce,Backtracking,FloodFill</Filter>
+    </ClCompile>
+    <ClCompile Include="08.BruteForce,Backtracking,FloodFill\3.cpp">
+      <Filter>08.BruteForce,Backtracking,FloodFill</Filter>
+    </ClCompile>
+    <ClCompile Include="03.BinarySearchTree,UnionFind\1.cpp">
+      <Filter>03.BinarySearchTree,UnionFind</Filter>
+    </ClCompile>
+    <ClCompile Include="03.BinarySearchTree,UnionFind\2.cpp">
+      <Filter>03.BinarySearchTree,UnionFind</Filter>
+    </ClCompile>
+    <ClCompile Include="03.BinarySearchTree,UnionFind\3.cpp">
+      <Filter>03.BinarySearchTree,UnionFind</Filter>
+    </ClCompile>
+    <ClCompile Include="03.BinarySearchTree,UnionFind\4.cpp">
+      <Filter>03.BinarySearchTree,UnionFind</Filter>
+    </ClCompile>
+    <ClCompile Include="03.BinarySearchTree,UnionFind\5.cpp">
+      <Filter>03.BinarySearchTree,UnionFind</Filter>
+    </ClCompile>
+    <ClCompile Include="03.BinarySearchTree,UnionFind\_1.cpp">
+      <Filter>03.BinarySearchTree,UnionFind</Filter>
+    </ClCompile>
+    <ClCompile Include="03.BinarySearchTree,UnionFind\_2.cpp">
+      <Filter>03.BinarySearchTree,UnionFind</Filter>
+    </ClCompile>
+    <ClCompile Include="03.BinarySearchTree,UnionFind\_3.cpp">
+      <Filter>03.BinarySearchTree,UnionFind</Filter>
+    </ClCompile>
+    <ClCompile Include="03.BinarySearchTree,UnionFind\_4.cpp">
+      <Filter>03.BinarySearchTree,UnionFind</Filter>
+    </ClCompile>
+    <ClCompile Include="4.cpp">
       <Filter>04.MinMaxHeap,BinarySearch</Filter>
     </ClCompile>
   </ItemGroup>

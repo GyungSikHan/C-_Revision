@@ -1213,6 +1213,30 @@
     <ClCompile Include="Data Structures and Basic Algorithms\10. Coding Test- Design\InsertDeleteGetRandom.cpp">
       <Filter>자료구조 및 기초 알고리즘\10.코딩테스트 실전 문제 %28설계%29 %28Coding Test- Design%29</Filter>
     </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\03.BinarySearchTree,UnionFind\2.cpp">
+      <Filter>고급알고리즘\03.BinarySearchTree,UnionFind</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\03.BinarySearchTree,UnionFind\1.cpp">
+      <Filter>고급알고리즘\03.BinarySearchTree,UnionFind</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\03.BinarySearchTree,UnionFind\4.cpp">
+      <Filter>고급알고리즘\03.BinarySearchTree,UnionFind</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\03.BinarySearchTree,UnionFind\5.cpp">
+      <Filter>고급알고리즘\03.BinarySearchTree,UnionFind</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\03.BinarySearchTree,UnionFind\3.cpp">
+      <Filter>고급알고리즘\03.BinarySearchTree,UnionFind</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\03.BinarySearchTree,UnionFind\6.cpp">
+      <Filter>고급알고리즘\03.BinarySearchTree,UnionFind</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\03.BinarySearchTree,UnionFind\7.cpp">
+      <Filter>고급알고리즘\03.BinarySearchTree,UnionFind</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\03.BinarySearchTree,UnionFind\8.cpp">
+      <Filter>고급알고리즘\03.BinarySearchTree,UnionFind</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="C++ 기초">
@@ -1331,6 +1355,12 @@
     </Filter>
     <Filter Include="자료구조 및 기초 알고리즘\10.코딩테스트 실전 문제 %28설계%29 %28Coding Test- Design%29">
       <UniqueIdentifier>{1dc38909-138b-4bd3-9806-2370a88f158d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="고급알고리즘\03.BinarySearchTree,UnionFind">
+      <UniqueIdentifier>{05f7ac42-2e5a-486a-8207-abbf3386f15b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="고급알고리즘\04.MinMaxHeap,BinarySearch">
+      <UniqueIdentifier>{26578989-ef09-423d-b2d2-858c2e283e39}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
