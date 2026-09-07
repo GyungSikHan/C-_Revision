@@ -1117,84 +1117,6 @@
     <ClCompile Include="Data Structures and Basic Algorithms\LV20 DFS, BFS Path Search, Min Travel Cost\20.cpp">
       <Filter>자료구조 및 기초 알고리즘\LV20 DFS/BFS 경로 탐색, 최소 여행비용</Filter>
     </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\01 Time,Sapce Complexity\2.cpp">
-      <Filter>고급알고리즘\01 Time,Sapce Complexity</Filter>
-    </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\01 Time,Sapce Complexity\1.cpp">
-      <Filter>고급알고리즘\01 Time,Sapce Complexity</Filter>
-    </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\01 Time,Sapce Complexity\3.cpp">
-      <Filter>고급알고리즘\01 Time,Sapce Complexity</Filter>
-    </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\01 Time,Sapce Complexity\4.cpp">
-      <Filter>고급알고리즘\01 Time,Sapce Complexity</Filter>
-    </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\01 Time,Sapce Complexity\5.cpp">
-      <Filter>고급알고리즘\01 Time,Sapce Complexity</Filter>
-    </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\01 Time,Sapce Complexity\6.cpp">
-      <Filter>고급알고리즘\01 Time,Sapce Complexity</Filter>
-    </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\01 Time,Sapce Complexity\7.cpp">
-      <Filter>고급알고리즘\01 Time,Sapce Complexity</Filter>
-    </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\01 Time,Sapce Complexity\8.cpp">
-      <Filter>고급알고리즘\01 Time,Sapce Complexity</Filter>
-    </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\01 Time,Sapce Complexity\9.cpp">
-      <Filter>고급알고리즘\01 Time,Sapce Complexity</Filter>
-    </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\1.cpp">
-      <Filter>고급알고리즘\02 STL Summary</Filter>
-    </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\2.cpp">
-      <Filter>고급알고리즘\02 STL Summary</Filter>
-    </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\3.cpp">
-      <Filter>고급알고리즘\02 STL Summary</Filter>
-    </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\4.cpp">
-      <Filter>고급알고리즘\02 STL Summary</Filter>
-    </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\5.cpp">
-      <Filter>고급알고리즘\02 STL Summary</Filter>
-    </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\6.cpp">
-      <Filter>고급알고리즘\02 STL Summary</Filter>
-    </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\7.cpp">
-      <Filter>고급알고리즘\02 STL Summary</Filter>
-    </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\8.cpp">
-      <Filter>고급알고리즘\02 STL Summary</Filter>
-    </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\9.cpp">
-      <Filter>고급알고리즘\02 STL Summary</Filter>
-    </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\10.cpp">
-      <Filter>고급알고리즘\02 STL Summary</Filter>
-    </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\11.cpp">
-      <Filter>고급알고리즘\02 STL Summary</Filter>
-    </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\12.cpp">
-      <Filter>고급알고리즘\02 STL Summary</Filter>
-    </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\13.cpp">
-      <Filter>고급알고리즘\02 STL Summary</Filter>
-    </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\14.cpp">
-      <Filter>고급알고리즘\02 STL Summary</Filter>
-    </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\15.cpp">
-      <Filter>고급알고리즘\02 STL Summary</Filter>
-    </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\16.cpp">
-      <Filter>고급알고리즘\02 STL Summary</Filter>
-    </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\02 STL Summary\17.cpp">
-      <Filter>고급알고리즘\02 STL Summary</Filter>
-    </ClCompile>
     <ClCompile Include="Data Structures and Basic Algorithms\9. Coding Test Prep- Design\ShuffleAnArray.cpp">
       <Filter>자료구조 및 기초 알고리즘\9.코딩테스트 준비문제 %28설계%29 %28Coding Test Prep- Design%29</Filter>
     </ClCompile>
@@ -1213,29 +1135,179 @@
     <ClCompile Include="Data Structures and Basic Algorithms\10. Coding Test- Design\InsertDeleteGetRandom.cpp">
       <Filter>자료구조 및 기초 알고리즘\10.코딩테스트 실전 문제 %28설계%29 %28Coding Test- Design%29</Filter>
     </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\03.BinarySearchTree,UnionFind\2.cpp">
+    <ClCompile Include="AdvancedAlgorithmes\1.Coding Test Prep- Tree\1.cpp">
+      <Filter>고급알고리즘\1.코딩테스트 준비문제 %28Tree%29 %28Coding Test Prep- Tree%29</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV1 Time,Sapce Complexity\2.cpp">
+      <Filter>고급알고리즘\01 Time,Sapce Complexity</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV1 Time,Sapce Complexity\3.cpp">
+      <Filter>고급알고리즘\01 Time,Sapce Complexity</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV1 Time,Sapce Complexity\4.cpp">
+      <Filter>고급알고리즘\01 Time,Sapce Complexity</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV1 Time,Sapce Complexity\5.cpp">
+      <Filter>고급알고리즘\01 Time,Sapce Complexity</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV1 Time,Sapce Complexity\6.cpp">
+      <Filter>고급알고리즘\01 Time,Sapce Complexity</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV1 Time,Sapce Complexity\7.cpp">
+      <Filter>고급알고리즘\01 Time,Sapce Complexity</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV1 Time,Sapce Complexity\8.cpp">
+      <Filter>고급알고리즘\01 Time,Sapce Complexity</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV1 Time,Sapce Complexity\9.cpp">
+      <Filter>고급알고리즘\01 Time,Sapce Complexity</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV1 Time,Sapce Complexity\1.cpp">
+      <Filter>고급알고리즘\01 Time,Sapce Complexity</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV2 STL Summary\8.cpp">
+      <Filter>고급알고리즘\02 STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV2 STL Summary\9.cpp">
+      <Filter>고급알고리즘\02 STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV2 STL Summary\10.cpp">
+      <Filter>고급알고리즘\02 STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV2 STL Summary\11.cpp">
+      <Filter>고급알고리즘\02 STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV2 STL Summary\12.cpp">
+      <Filter>고급알고리즘\02 STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV2 STL Summary\13.cpp">
+      <Filter>고급알고리즘\02 STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV2 STL Summary\14.cpp">
+      <Filter>고급알고리즘\02 STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV2 STL Summary\1.cpp">
+      <Filter>고급알고리즘\02 STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV2 STL Summary\2.cpp">
+      <Filter>고급알고리즘\02 STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV2 STL Summary\3.cpp">
+      <Filter>고급알고리즘\02 STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV2 STL Summary\4.cpp">
+      <Filter>고급알고리즘\02 STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV2 STL Summary\5.cpp">
+      <Filter>고급알고리즘\02 STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV2 STL Summary\6.cpp">
+      <Filter>고급알고리즘\02 STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV2 STL Summary\7.cpp">
+      <Filter>고급알고리즘\02 STL Summary</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV3.BinarySearchTree,UnionFind\2.cpp">
       <Filter>고급알고리즘\03.BinarySearchTree,UnionFind</Filter>
     </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\03.BinarySearchTree,UnionFind\1.cpp">
+    <ClCompile Include="AdvancedAlgorithmes\LV3.BinarySearchTree,UnionFind\3.cpp">
       <Filter>고급알고리즘\03.BinarySearchTree,UnionFind</Filter>
     </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\03.BinarySearchTree,UnionFind\4.cpp">
+    <ClCompile Include="AdvancedAlgorithmes\LV3.BinarySearchTree,UnionFind\4.cpp">
       <Filter>고급알고리즘\03.BinarySearchTree,UnionFind</Filter>
     </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\03.BinarySearchTree,UnionFind\5.cpp">
+    <ClCompile Include="AdvancedAlgorithmes\LV3.BinarySearchTree,UnionFind\5.cpp">
       <Filter>고급알고리즘\03.BinarySearchTree,UnionFind</Filter>
     </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\03.BinarySearchTree,UnionFind\3.cpp">
+    <ClCompile Include="AdvancedAlgorithmes\LV3.BinarySearchTree,UnionFind\6.cpp">
       <Filter>고급알고리즘\03.BinarySearchTree,UnionFind</Filter>
     </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\03.BinarySearchTree,UnionFind\6.cpp">
+    <ClCompile Include="AdvancedAlgorithmes\LV3.BinarySearchTree,UnionFind\7.cpp">
       <Filter>고급알고리즘\03.BinarySearchTree,UnionFind</Filter>
     </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\03.BinarySearchTree,UnionFind\7.cpp">
+    <ClCompile Include="AdvancedAlgorithmes\LV3.BinarySearchTree,UnionFind\8.cpp">
       <Filter>고급알고리즘\03.BinarySearchTree,UnionFind</Filter>
     </ClCompile>
-    <ClCompile Include="AdvancedAlgorithmes\03.BinarySearchTree,UnionFind\8.cpp">
+    <ClCompile Include="AdvancedAlgorithmes\LV3.BinarySearchTree,UnionFind\1.cpp">
       <Filter>고급알고리즘\03.BinarySearchTree,UnionFind</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV4.MinMaxHeap,BinarySearch\3.cpp">
+      <Filter>고급알고리즘\04.MinMaxHeap,BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV4.MinMaxHeap,BinarySearch\4.cpp">
+      <Filter>고급알고리즘\04.MinMaxHeap,BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV4.MinMaxHeap,BinarySearch\5.cpp">
+      <Filter>고급알고리즘\04.MinMaxHeap,BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV4.MinMaxHeap,BinarySearch\6.cpp">
+      <Filter>고급알고리즘\04.MinMaxHeap,BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV4.MinMaxHeap,BinarySearch\7.cpp">
+      <Filter>고급알고리즘\04.MinMaxHeap,BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV4.MinMaxHeap,BinarySearch\8.cpp">
+      <Filter>고급알고리즘\04.MinMaxHeap,BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV4.MinMaxHeap,BinarySearch\9.cpp">
+      <Filter>고급알고리즘\04.MinMaxHeap,BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV4.MinMaxHeap,BinarySearch\10.cpp">
+      <Filter>고급알고리즘\04.MinMaxHeap,BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV4.MinMaxHeap,BinarySearch\11.cpp">
+      <Filter>고급알고리즘\04.MinMaxHeap,BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV4.MinMaxHeap,BinarySearch\12.cpp">
+      <Filter>고급알고리즘\04.MinMaxHeap,BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV4.MinMaxHeap,BinarySearch\13.cpp">
+      <Filter>고급알고리즘\04.MinMaxHeap,BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV4.MinMaxHeap,BinarySearch\14.cpp">
+      <Filter>고급알고리즘\04.MinMaxHeap,BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV4.MinMaxHeap,BinarySearch\15.cpp">
+      <Filter>고급알고리즘\04.MinMaxHeap,BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV4.MinMaxHeap,BinarySearch\16.cpp">
+      <Filter>고급알고리즘\04.MinMaxHeap,BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV4.MinMaxHeap,BinarySearch\17.cpp">
+      <Filter>고급알고리즘\04.MinMaxHeap,BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV4.MinMaxHeap,BinarySearch\18.cpp">
+      <Filter>고급알고리즘\04.MinMaxHeap,BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV4.MinMaxHeap,BinarySearch\19.cpp">
+      <Filter>고급알고리즘\04.MinMaxHeap,BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV4.MinMaxHeap,BinarySearch\1.cpp">
+      <Filter>고급알고리즘\04.MinMaxHeap,BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV4.MinMaxHeap,BinarySearch\2.cpp">
+      <Filter>고급알고리즘\04.MinMaxHeap,BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\1.Coding Test Prep- Tree\ValidateBinarySearchTree.cpp">
+      <Filter>고급알고리즘\1.코딩테스트 준비문제 %28Tree%29 %28Coding Test Prep- Tree%29</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\1.Coding Test Prep- Tree\SymmetricTree.cpp">
+      <Filter>고급알고리즘\1.코딩테스트 준비문제 %28Tree%29 %28Coding Test Prep- Tree%29</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV5.DFS Paths\1.cpp">
+      <Filter>고급알고리즘\05.DFS Paths</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV5.DFS Paths\２.cpp">
+      <Filter>고급알고리즘\05.DFS Paths</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV5.DFS Paths\3.cpp">
+      <Filter>고급알고리즘\05.DFS Paths</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV5.DFS Paths\4.cpp">
+      <Filter>고급알고리즘\05.DFS Paths</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV5.DFS Paths\5.cpp">
+      <Filter>고급알고리즘\05.DFS Paths</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -1361,6 +1433,12 @@
     </Filter>
     <Filter Include="고급알고리즘\04.MinMaxHeap,BinarySearch">
       <UniqueIdentifier>{26578989-ef09-423d-b2d2-858c2e283e39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="고급알고리즘\1.코딩테스트 준비문제 %28Tree%29 %28Coding Test Prep- Tree%29">
+      <UniqueIdentifier>{a65afe19-b9a8-4fd6-aa5d-160c6505e803}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="고급알고리즘\05.DFS Paths">
+      <UniqueIdentifier>{550f1948-dc18-44ef-b42c-a4a6c3339735}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>

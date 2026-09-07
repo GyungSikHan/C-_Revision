@@ -1,42 +1,27 @@
-#include<iostream>
+﻿#include <iostream>
 
-char history[10]{};
-char ox[2]{'O','X'};
-char data[10] = "ABCD";
+using namespace std;
 
-void dfs(int level)
+char tree[256]{ 0,'A','B','C','D','E',0,'G' };
+int n = 7;
+
+void dfs(int level, int nowIdx)
 {
-    int cnt = 0;
-    if(level == 4)
-    {
-        for (size_t i = 0; i < 4; i++)
-        {
-            if(history[i] == 'O')
-                cnt++;
-        }
-        
-        if(cnt == 3)
-        {
-            for (size_t i = 0; i < 4; i++)
-            {
-                if(history[i] == 'O')
-                    std::cout<<data[i];
-            }
-            std::cout<<std::endl;
-        }
+	int left = nowIdx * 2;
+	int right = nowIdx * 2 + 1;
 
-        return;
-    }
 
-    for (size_t i = 0; i < 2; i++)
-    {
-        history[level] = ox[i];
-        dfs(level+1);
-        history[level] = 0;
-    }
+	if (left <= n && tree[left] != 0)
+		dfs(level + 1, left);
+
+	cout << tree[nowIdx] << " ";
+
+	if (right <= n && tree[right] != 0)
+		dfs(level + 1, right);
 }
+
 
 int main()
 {
-    dfs(0);
+	dfs(1, 0);
 }

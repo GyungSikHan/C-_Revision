@@ -25,6 +25,9 @@
     <Filter Include="03.BinarySearchTree,UnionFind">
       <UniqueIdentifier>{9d80d416-d49e-4c9c-86ec-7b7438b7d00a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="09.Bitmask Combinations, BFS Path Trace">
+      <UniqueIdentifier>{e69a9545-fae6-4bab-8882-b8a7eca6383a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="02.STL Summary\1.cpp">
@@ -60,16 +63,16 @@
     <ClCompile Include="04.MinMaxHeap,BinarySearch\3.cpp">
       <Filter>04.MinMaxHeap,BinarySearch</Filter>
     </ClCompile>
-    <ClCompile Include="05.DFS Paths\3.cpp">
+    <ClCompile Include="05.DFS Paths\_3.cpp">
       <Filter>05.DFS Paths</Filter>
     </ClCompile>
-    <ClCompile Include="05.DFS Paths\4.cpp">
+    <ClCompile Include="05.DFS Paths\_4.cpp">
       <Filter>05.DFS Paths</Filter>
     </ClCompile>
     <ClCompile Include="05.DFS Paths\1.cpp">
       <Filter>05.DFS Paths</Filter>
     </ClCompile>
-    <ClCompile Include="05.DFS Paths\2.cpp">
+    <ClCompile Include="05.DFS Paths\_2.cpp">
       <Filter>05.DFS Paths</Filter>
     </ClCompile>
     <ClCompile Include="06.Permutations, DFS Paths, Weighted Graph\1.cpp">
@@ -125,6 +128,33 @@
     </ClCompile>
     <ClCompile Include="4.cpp">
       <Filter>04.MinMaxHeap,BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="09.Bitmask Combinations, BFS Path Trace\1.cpp">
+      <Filter>09.Bitmask Combinations, BFS Path Trace</Filter>
+    </ClCompile>
+    <ClCompile Include="09.Bitmask Combinations, BFS Path Trace\2.cpp">
+      <Filter>09.Bitmask Combinations, BFS Path Trace</Filter>
+    </ClCompile>
+    <ClCompile Include="05.DFS Paths\3.cpp">
+      <Filter>05.DFS Paths</Filter>
+    </ClCompile>
+    <ClCompile Include="05.DFS Paths\2.cpp">
+      <Filter>05.DFS Paths</Filter>
+    </ClCompile>
+    <ClCompile Include="05.DFS Paths\4.cpp">
+      <Filter>05.DFS Paths</Filter>
+    </ClCompile>
+    <ClCompile Include="05.DFS Paths\5.cpp">
+      <Filter>05.DFS Paths</Filter>
+    </ClCompile>
+    <ClCompile Include="05.DFS Paths\6.cpp">
+      <Filter>05.DFS Paths</Filter>
+    </ClCompile>
+    <ClCompile Include="05.DFS Paths\7.cpp">
+      <Filter>05.DFS Paths</Filter>
+    </ClCompile>
+    <ClCompile Include="05.DFS Paths\8.cpp">
+      <Filter>05.DFS Paths</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

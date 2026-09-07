@@ -1,32 +1,25 @@
-#include<iostream>
-#include<string>
+﻿#include <iostream>
 
 using namespace std;
 
-string str;
-int cnt;
-char ret[3]{};
+char tree[256]{ 0,'A','B','C','D','E',0,'G' };
+int n = 7;
 
-void dfs(int level, int idx)
+void dfs(int level, int nowIdx)
 {
-    if(level == 3)
-    {
-        cnt++;
-        cout<<ret<<endl;
-        return;
-    }
+	int left = nowIdx * 2;
+	int right = nowIdx * 2 + 1;
 
 
-    for (size_t i = idx; i < str.size(); i++)
-    {
-        ret[level] = str[i];
-        dfs(level+1, i);
-    }
-    
+	if (left <= n && tree[left] != 0)
+		dfs(level + 1, left);
+	if (right <= n && tree[right] != 0)
+		dfs(level + 1, right);
+	cout << tree[nowIdx] << " ";
 }
+
 
 int main()
 {
-    cin>>str;
-    dfs(0, 0);
+	dfs(1, 0);
 }
