@@ -1309,6 +1309,18 @@
     <ClCompile Include="AdvancedAlgorithmes\LV5.DFS Paths\5.cpp">
       <Filter>고급알고리즘\05.DFS Paths</Filter>
     </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV5.DFS Paths\7.cpp">
+      <Filter>고급알고리즘\05.DFS Paths</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV5.DFS Paths\6.cpp">
+      <Filter>고급알고리즘\05.DFS Paths</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV5.DFS Paths\8.cpp">
+      <Filter>고급알고리즘\05.DFS Paths</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV5.DFS Paths\9.cpp">
+      <Filter>고급알고리즘\05.DFS Paths</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="C++ 기초">
