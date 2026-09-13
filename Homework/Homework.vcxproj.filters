@@ -1321,6 +1321,27 @@
     <ClCompile Include="AdvancedAlgorithmes\LV5.DFS Paths\9.cpp">
       <Filter>고급알고리즘\05.DFS Paths</Filter>
     </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV5.DFS Paths\10.cpp">
+      <Filter>고급알고리즘\05.DFS Paths</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV6.Permutations, DFS Paths, Weighted Graph\1.cpp">
+      <Filter>고급알고리즘\06.Permutations, DFS Paths, Weighted Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV6.Permutations, DFS Paths, Weighted Graph\2.cpp">
+      <Filter>고급알고리즘\06.Permutations, DFS Paths, Weighted Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV6.Permutations, DFS Paths, Weighted Graph\3.cpp">
+      <Filter>고급알고리즘\06.Permutations, DFS Paths, Weighted Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV6.Permutations, DFS Paths, Weighted Graph\4.cpp">
+      <Filter>고급알고리즘\06.Permutations, DFS Paths, Weighted Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\1.Coding Test Prep- Tree\BinaryTreeLevelOrderTraversal.cpp">
+      <Filter>고급알고리즘\1.코딩테스트 준비문제 %28Tree%29 %28Coding Test Prep- Tree%29</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\1.Coding Test Prep- Tree\ConvertSortedArrayToBinarySearchTree.cpp">
+      <Filter>고급알고리즘\1.코딩테스트 준비문제 %28Tree%29 %28Coding Test Prep- Tree%29</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="C++ 기초">
@@ -1451,6 +1472,9 @@
     </Filter>
     <Filter Include="고급알고리즘\05.DFS Paths">
       <UniqueIdentifier>{550f1948-dc18-44ef-b42c-a4a6c3339735}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="고급알고리즘\06.Permutations, DFS Paths, Weighted Graph">
+      <UniqueIdentifier>{5f3e4b48-fc20-4603-8ea0-2d9b6f0ae83b}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
