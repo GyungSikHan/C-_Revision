@@ -28,6 +28,9 @@
     <Filter Include="09.Bitmask Combinations, BFS Path Trace">
       <UniqueIdentifier>{e69a9545-fae6-4bab-8882-b8a7eca6383a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="NewFilter1">
+      <UniqueIdentifier>{27eddf11-2a35-4560-84a3-2276c3abfccf}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="02.STL Summary\1.cpp">
@@ -155,6 +158,21 @@
     </ClCompile>
     <ClCompile Include="05.DFS Paths\8.cpp">
       <Filter>05.DFS Paths</Filter>
+    </ClCompile>
+    <ClCompile Include="새 폴더\1.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="새 폴더\2.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="새 폴더\３.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="새 폴더\4.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="새 폴더\5.cpp">
+      <Filter>NewFilter1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
