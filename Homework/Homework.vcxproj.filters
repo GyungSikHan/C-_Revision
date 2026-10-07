@@ -1384,6 +1384,30 @@
     <ClCompile Include="AdvancedAlgorithmes\Lv7.MST(Minimum_Spanning_Tree)_Kruskal_Algorithm\14.cpp">
       <Filter>고급알고리즘\07.MST%28Minimum_Spanning_Tree_최소신장_트리%29_Kruskal_알고리즘</Filter>
     </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV8.BruteForce,Backtracking,FloodFill\1.cpp">
+      <Filter>고급알고리즘\08.BruteForce,Backtracking,FloodFill</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV8.BruteForce,Backtracking,FloodFill\2.cpp">
+      <Filter>고급알고리즘\08.BruteForce,Backtracking,FloodFill</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV8.BruteForce,Backtracking,FloodFill\3.cpp">
+      <Filter>고급알고리즘\08.BruteForce,Backtracking,FloodFill</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV8.BruteForce,Backtracking,FloodFill\4.cpp">
+      <Filter>고급알고리즘\08.BruteForce,Backtracking,FloodFill</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV8.BruteForce,Backtracking,FloodFill\5.cpp">
+      <Filter>고급알고리즘\08.BruteForce,Backtracking,FloodFill</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV8.BruteForce,Backtracking,FloodFill\6.cpp">
+      <Filter>고급알고리즘\08.BruteForce,Backtracking,FloodFill</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV8.BruteForce,Backtracking,FloodFill\7.cpp">
+      <Filter>고급알고리즘\08.BruteForce,Backtracking,FloodFill</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV9.Bitmask Combinations, BFS Path Trace\1.cpp">
+      <Filter>고급알고리즘\09.Bitmask Combinations, BFS Path Trace</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="C++ 기초">
@@ -1520,6 +1544,12 @@
     </Filter>
     <Filter Include="고급알고리즘\07.MST%28Minimum_Spanning_Tree_최소신장_트리%29_Kruskal_알고리즘">
       <UniqueIdentifier>{ac0abb9d-e028-494a-9ebd-3bc17f7f7b9b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="고급알고리즘\08.BruteForce,Backtracking,FloodFill">
+      <UniqueIdentifier>{30386171-022f-4482-bf8e-e6b424fca84f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="고급알고리즘\09.Bitmask Combinations, BFS Path Trace">
+      <UniqueIdentifier>{924cb50f-86a9-424e-bc22-00f1e19071e7}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>

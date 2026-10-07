@@ -1,5 +1,6 @@
-﻿#include <Windows.h>
-#include <iostream>
+﻿#include <iostream>
+
+using namespace std;
 
 char map[9][10] =
 {
@@ -14,7 +15,7 @@ char map[9][10] =
 	"#########"
 };
 
-void printMap()
+void PrintMap()
 {
 	for (int i = 0; i < 9; ++i)
 	{
@@ -26,29 +27,23 @@ void printMap()
 	}
 }
 
-void FloodFill(int x, int y)
+void FloodFill(int y, int x)
 {
 	if (map[y][x] == '.')
 	{
 		map[y][x] = '@';
-		Sleep(1000);
-		system("cls");
 
-		printMap();
-
-		FloodFill(x, y + 1);
-		FloodFill(x-1, y);
-		FloodFill(x, y-1);
-		FloodFill(x+1, y);
+		FloodFill(y + 1, x);
+		FloodFill(y-1, x);
+		FloodFill(y, x+1);
+		FloodFill(y, x-1);
 	}
 }
-
 int main()
 {
-	printMap();
-
-	std::cout << "==================================" << std::endl;
-	FloodFill(4,3);
+	PrintMap();
+	std::cout << "==========================" << std::endl;
+	FloodFill(4, 4);
+	PrintMap();
 
 }
-

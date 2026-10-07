@@ -31,6 +31,12 @@
     <Filter Include="NewFilter1">
       <UniqueIdentifier>{27eddf11-2a35-4560-84a3-2276c3abfccf}</UniqueIdentifier>
     </Filter>
+    <Filter Include="NewFilter2">
+      <UniqueIdentifier>{042602b7-59bd-484b-ad46-fbce2143e5e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NewFilter3">
+      <UniqueIdentifier>{bed2c117-89e2-425e-b56b-dfa901caa4c3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="02.STL Summary\1.cpp">
@@ -93,15 +99,6 @@
     <ClCompile Include="07.MST,kruskal\2.cpp">
       <Filter>07.MST,Kruskal</Filter>
     </ClCompile>
-    <ClCompile Include="08.BruteForce,Backtracking,FloodFill\1.cpp">
-      <Filter>08.BruteForce,Backtracking,FloodFill</Filter>
-    </ClCompile>
-    <ClCompile Include="08.BruteForce,Backtracking,FloodFill\2.cpp">
-      <Filter>08.BruteForce,Backtracking,FloodFill</Filter>
-    </ClCompile>
-    <ClCompile Include="08.BruteForce,Backtracking,FloodFill\3.cpp">
-      <Filter>08.BruteForce,Backtracking,FloodFill</Filter>
-    </ClCompile>
     <ClCompile Include="03.BinarySearchTree,UnionFind\1.cpp">
       <Filter>03.BinarySearchTree,UnionFind</Filter>
     </ClCompile>
@@ -132,10 +129,10 @@
     <ClCompile Include="4.cpp">
       <Filter>04.MinMaxHeap,BinarySearch</Filter>
     </ClCompile>
-    <ClCompile Include="09.Bitmask Combinations, BFS Path Trace\1.cpp">
+    <ClCompile Include="09.Bitmask Combinations, BFS Path Trace\_1.cpp">
       <Filter>09.Bitmask Combinations, BFS Path Trace</Filter>
     </ClCompile>
-    <ClCompile Include="09.Bitmask Combinations, BFS Path Trace\2.cpp">
+    <ClCompile Include="09.Bitmask Combinations, BFS Path Trace\_2.cpp">
       <Filter>09.Bitmask Combinations, BFS Path Trace</Filter>
     </ClCompile>
     <ClCompile Include="05.DFS Paths\3.cpp">
@@ -173,6 +170,30 @@
     </ClCompile>
     <ClCompile Include="새 폴더\5.cpp">
       <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="새 폴더 (2)\1.cpp">
+      <Filter>NewFilter2</Filter>
+    </ClCompile>
+    <ClCompile Include="새 폴더 (2)\2.cpp">
+      <Filter>NewFilter2</Filter>
+    </ClCompile>
+    <ClCompile Include="1.cpp">
+      <Filter>NewFilter3</Filter>
+    </ClCompile>
+    <ClCompile Include="2.cpp">
+      <Filter>NewFilter3</Filter>
+    </ClCompile>
+    <ClCompile Include="３.cpp">
+      <Filter>NewFilter3</Filter>
+    </ClCompile>
+    <ClCompile Include="08.BruteForce,Backtracking,FloodFill\1.cpp">
+      <Filter>08.BruteForce,Backtracking,FloodFill</Filter>
+    </ClCompile>
+    <ClCompile Include="08.BruteForce,Backtracking,FloodFill\2.cpp">
+      <Filter>08.BruteForce,Backtracking,FloodFill</Filter>
+    </ClCompile>
+    <ClCompile Include="09.Bitmask Combinations, BFS Path Trace\1.cpp">
+      <Filter>09.Bitmask Combinations, BFS Path Trace</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
