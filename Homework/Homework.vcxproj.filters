@@ -1408,6 +1408,24 @@
     <ClCompile Include="AdvancedAlgorithmes\LV9.Bitmask Combinations, BFS Path Trace\1.cpp">
       <Filter>고급알고리즘\09.Bitmask Combinations, BFS Path Trace</Filter>
     </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV9.Bitmask Combinations, BFS Path Trace\2.cpp">
+      <Filter>고급알고리즘\09.Bitmask Combinations, BFS Path Trace</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV9.Bitmask Combinations, BFS Path Trace\3.cpp">
+      <Filter>고급알고리즘\09.Bitmask Combinations, BFS Path Trace</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV9.Bitmask Combinations, BFS Path Trace\4.cpp">
+      <Filter>고급알고리즘\09.Bitmask Combinations, BFS Path Trace</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV9.Bitmask Combinations, BFS Path Trace\5.cpp">
+      <Filter>고급알고리즘\09.Bitmask Combinations, BFS Path Trace</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV9.Bitmask Combinations, BFS Path Trace\6.cpp">
+      <Filter>고급알고리즘\09.Bitmask Combinations, BFS Path Trace</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvancedAlgorithmes\LV9.Bitmask Combinations, BFS Path Trace\7.cpp">
+      <Filter>고급알고리즘\09.Bitmask Combinations, BFS Path Trace</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="C++ 기초">

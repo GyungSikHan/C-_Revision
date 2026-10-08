@@ -1,75 +1,55 @@
 ﻿#include <iostream>
-#include <queue>
-#include <stack>
+#include <vector>
 
 using namespace std;
+const int length = 30;
 
+int Q[length];
+int level[length];
+int parent[length];
+int head = 0;
+int tail = 2;
 
-struct Node
+void Print(int idx)
 {
-	int value;
-	int level;
-	int parent;
-};
+	while (true)
+	{
+		if (idx == -1)
+			break;
+
+		cout << Q[idx] << " ";
+		idx = parent[idx];
+	}
+}
 
 int main()
 {
-	Node nodes[30]{};
-	int nodeCount{};
-
-	queue<int>q;
-
-	nodes[nodeCount] = {1,1,-1};
-	q.push(nodeCount);
-	nodeCount++;
-
-	nodes[nodeCount] = {2,1,-1};
-	q.push(nodeCount);
-	nodeCount++;
-
-	while (!q.empty())
+	for (int i = 0; i < 2; ++i)
 	{
-		int current = q.front();
-		q.pop();
+		Q[i] = i + 1;
+		level[i] = 1;
+		parent[i] = -1;
+	}	
 
-		if (nodes[current].level == 3)
-			continue;
-
-		for (int i = 1; i <= 2; ++i)
+	while (true)
+	{
+		for (int i = 0; i < 2; ++i)
 		{
-			nodes[nodeCount].value = i;
-			nodes[nodeCount].level = nodes[current].level + 1;
-			nodes[nodeCount].parent = current;
-
-			q.push(nodeCount);
-			nodeCount++;
+			Q[tail] = i + 1;
+			level[tail] = level[head] + 1;
+			parent[tail] = head;
+			tail++;
 		}
+
+		head++;
+
+		if (level[head] == 3)
+			break;
 	}
 
-	cout << "===== 생성된 노드 =====\n";
-	for (int i = 0; i < nodeCount; ++i)
+	for (int i = head; i < tail; ++i)
 	{
-		cout << "Index : " << i << " Value : " << nodes[i].value << 
-			" Level : " << nodes[i].level << " Parent : " << nodes[i].parent << endl;
+		cout << endl;
+		Print(i);
 	}
-
-	int target = 13;
-	cout << "\nTarget Index : " << target << endl;
-
-	stack<int> path;
-
-	while (target != -1)
-	{
-		path.push(nodes[target].value);
-		target = nodes[target].parent;
-	}
-
-	cout << "Path : ";
-
-	while (!path.empty())
-	{
-		cout << path.top() << " ";
-		path.pop();
-	}
-	cout << endl;
 }
